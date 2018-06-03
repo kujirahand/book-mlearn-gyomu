@@ -1,0 +1,28 @@
+■ライセンス
+
+▲okディレクトリ
+
+okディレクトリにあるすべての記事ファイルには、クリエイティブ・コモンズライセンス
+「表示 - 改変禁止」（http://creativecommons.org/licenses/by-nd/2.1/jp/）が適用されます。
+原著作者のクレジットを表示し、ニュース記事の改変をしないことを条件に、記事全文を
+自由に転載・引用が可能です。
+
+このディレクトリの記事ファイル内容の提供元：
+
+Sports Watch
+http://news.livedoor.com/category/vender/208/
+
+独女通信
+http://news.livedoor.com/category/vender/90/
+
+ITライフハック
+http://news.livedoor.com/category/vender/223/
+
+家電チャンネル
+http://news.livedoor.com/category/vender/kadench/
+
+▲spamディレクトリ
+
+MITライセンスです。自由に改変・再配布可能です。
+
+
