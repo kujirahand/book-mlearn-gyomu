@@ -60,7 +60,7 @@ RUN set -x && \
     rm -rf /var/lib/apt/lists/*
 
 RUN set -x && \
-    pip3 install --upgrade pip && \
+#    pip3 install --upgrade pip && \
     pip3 --no-cache-dir install \
         requests \
         setuptools \
