@@ -25,7 +25,7 @@ for fname in files:
         code_jis = r[3]
         # 画像データとして取り出す --- (*5)
         iF = Image.frombytes('F', (64, 63), r[18], 'bit', 4)
-        iP = iF.convert('P')
+        iP = iF.convert('L')
         # 画像を鮮明にして保存
         dir = outdir + "/" + str(code_jis)
         if not os.path.exists(dir): os.mkdir(dir)
