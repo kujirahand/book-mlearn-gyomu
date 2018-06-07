@@ -65,6 +65,7 @@ RUN set -x && \
         requests \
         setuptools \
         Pillow \
+        nose \
         h5py \
         ipykernel \
         jupyter \
