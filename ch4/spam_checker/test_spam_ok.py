@@ -3,7 +3,7 @@ import MeCab
 import numpy as np
 from sklearn.naive_bayes import GaussianNB
 
-# テストするテキスト
+# テストするテキスト --- (※1)
 test_text1 = """
 会社から支給されているiPhoneの調子が悪いのです。
 修理に出すので、しばらくはアプリのテストができません。
@@ -16,12 +16,12 @@ test_text2 = """
 data_file = "./ok-spam.pickle"
 model_file = "./ok-spam-model.pickle"
 label_names = ['OK', 'SPAM']
-# 単語辞書を読み出す
+# 単語辞書を読み出す --- (※2)
 data = pickle.load(open(data_file, "rb"))
 word_dic = data[2]
 # MeCabの準備
 tagger = MeCab.Tagger()
-# 学習済みモデルを読み出す
+# 学習済みモデルを読み出す --- (※3)
 model = pickle.load(open(model_file, "rb"))
 
 # テキストがスパムかどうか判定する

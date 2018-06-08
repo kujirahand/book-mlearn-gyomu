@@ -78,7 +78,8 @@ RUN set -x && \
         seaborn \
         opencv-python==3.4.0.12 \
         tensorflow==1.5.0 \
-        keras==2.1.4
+        keras==2.1.4 \
+        flask
 
 RUN set -x && \
     mkdir -p /root/.config/matplotlib && \
