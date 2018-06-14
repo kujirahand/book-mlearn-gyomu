@@ -51,7 +51,7 @@ def text_to_ids(text):
         words.append(id)
     return words
 
-# 単語をidに変換 --- (*10)
+# 単語をidに変換 --- (*9)
 def word_to_id(word):
     # 単語が辞書に登録されているか？
     if not (word in word_dic):
@@ -64,7 +64,7 @@ def word_to_id(word):
         id = word_dic[word]
     return id
 
-# 単語の頻出頻度のデータを作る --- (*11)
+# 単語の頻出頻度のデータを作る --- (*10)
 def make_freq_data_allfiles():
     y = []
     x = []
@@ -80,7 +80,7 @@ def make_freq_data(words):
     for w in words:
         dat[w] += 1
         cnt += 1
-    # 回数を出現頻度に直す --- (*12)
+    # 回数を出現頻度に直す --- (*11)
     dat = dat / cnt
     return dat
 
