@@ -17,7 +17,7 @@ def make_data(data):
     y = [] # 結果
     temps = list(data["気温"])
     for i in range(len(temps)):
-        if i <= interval: continue
+        if i < interval: continue
         y.append(temps[i])
         xa = []
         for p in range(interval):

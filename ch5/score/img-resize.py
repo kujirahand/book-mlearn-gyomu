@@ -23,7 +23,7 @@ for i, code in enumerate(kanadir):
     for j, f in enumerate(fs):
         img = cv2.imread(f)
         img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        img = cv2.resize(img, (im_size, im_size))
+        img = cv2.resize(img_gray, (im_size, im_size))
         result.append([i, img])
         # Jupyter Notebookで画像を出力
         if j == 3:

@@ -11,3 +11,6 @@
 書籍のAPENDIXに開発環境のセットアップについて、まとめられています。
 
 - 書籍の購入→ https://amzn.to/2sWAMrM
+- 書籍の正誤表 → https://kujirahand.com/blog/go.php?764
+
+
