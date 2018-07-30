@@ -18,7 +18,7 @@ def face_detect(img):
         cv2.rectangle(img, (x, y), (x+w, y+h), red, thickness=30)
 
 # 角度毎に検証する
-for i in range(0, 9):
+for i in range(9):
     ang = i * 10
     print("---" + str(ang) + "---")
     img_r = ndimage.rotate(img, ang)
