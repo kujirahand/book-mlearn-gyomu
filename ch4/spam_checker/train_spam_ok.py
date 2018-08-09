@@ -6,9 +6,10 @@ from sklearn.metrics import accuracy_score
 # データファイルの読込 --- (*1)
 data_file = "./ok-spam.pickle"
 save_file = "./ok-spam-model.pickle"
-data = pickle.load(open(data_file, "rb"))
-y = data[0] # ラベル
-x = data[1] # 単語の出現頻度
+with open(data_file, "rb") as f:
+    data = pickle.load(f)
+y = data[0]  # ラベル
+x = data[1]  # 単語の出現頻度
 
 # 100回、学習とテストを繰り返す --- (*2)
 count = 100
@@ -24,7 +25,9 @@ for i in range(count):
     y_pred = model.predict(x_test)
     acc = accuracy_score(y_test, y_pred)
     # 評価結果が良ければモデルを保存 --- (*6)
-    if acc > 0.94: pickle.dump(model, open(save_file, "wb"))
+    if acc > 0.94:
+        with open(save_file, "wb") as f:
+            pickle.dump(model, f)
     print(acc)
     rate += acc
 # 平均値を表示 --- (*7)

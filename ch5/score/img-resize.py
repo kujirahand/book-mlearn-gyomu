@@ -32,6 +32,7 @@ for i, code in enumerate(kanadir):
             plt.title(str(i))
             plt.imshow(img, cmap='gray')
 # ラベルと画像のデータを保存 --- (*4)
-pickle.dump(result, open(save_file, "wb"))
+with open(save_file, "wb") as f:
+    pickle.dump(result, f)
 plt.show()
 print("ok")

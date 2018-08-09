@@ -11,9 +11,10 @@ import matplotlib.pyplot as plt
 nb_classes = 4
 
 # データベースの読込 --- (*2)
-data = pickle.load(open("text/genre.pickle", "rb"))
-y = data[0] # ラベル
-x = data[1] # TF-IDF
+with open("text/genre.pickle", "rb") as f:
+    data = pickle.load(f)
+y = data[0]  # ラベル
+x = data[1]  # TF-IDF
 # ラベルデータをone-hotベクトルに直す --- (*3)
 y = keras.utils.np_utils.to_categorical(y, nb_classes)
 in_size = x[0].shape[0]

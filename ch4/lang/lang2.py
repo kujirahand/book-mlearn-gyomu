@@ -30,8 +30,9 @@ for file in glob.glob('./train/*.txt'):
     
     # ファイル内の文字列を連結後、Unicodeのコードポイント頻度測定し、入力データに設定 --- (*3)
     file_str = ''
-    for line in open(file, 'r'):
-        file_str = file_str + line
+    with open(file, 'r') as f:
+        for line in f:
+            file_str = file_str + line
     x_train.append(count_codePoint(file_str))
 
 # 学習する
@@ -48,9 +49,10 @@ for file in glob.glob('./test/*.txt'):
     
     # ファイル内の文字列を連結後、Unicodeのコードポイント頻度測定し、入力データに設定
     file_str = ''
-    for line in open(file, 'r'):
-        file_str = file_str + line
-    x_test.append(count_codePoint(file_str)) 
+    with open(file, 'r') as f:
+        for line in f:
+            file_str = file_str + line
+    x_test.append(count_codePoint(file_str))
 
 # 評価する
 y_pred = clf.predict(x_test)

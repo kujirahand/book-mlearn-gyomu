@@ -24,6 +24,7 @@ read_files('text/dokujo-tsushin', 3)
 x = tfidf.calc_files()
 
 # 保存 --- (*4)
-pickle.dump([y, x], open('text/genre.pickle', 'wb'))
+with open('text/genre.pickle', 'wb') as f:
+    pickle.dump([y, x], f)
 tfidf.save_dic('text/genre-tdidf.dic')
 print('ok')

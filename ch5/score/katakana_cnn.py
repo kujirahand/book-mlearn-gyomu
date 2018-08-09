@@ -17,7 +17,8 @@ im_color = 1 # 画像の色空間/グレイスケール
 in_shape = (im_size, im_size, im_color)
 
 # カタカナ画像のデータセットを読み込む --- (*1)
-data = pickle.load(open(data_file, "rb"))
+with open(data_file, "rb") as f:
+    data = pickle.load(f)
 # 画像データを変形して0-1の範囲に直す --- (*2)
 y = []
 x = []

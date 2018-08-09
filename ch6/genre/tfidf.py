@@ -77,15 +77,18 @@ def calc_files():
     return result
 
 def save_dic(fname):
-    '''辞書をファイルへ保存する''' # --- (*12)
-    pickle.dump(
-        [word_dic, dt_dic, files],
-        open(fname, "wb"))
+    '''辞書をファイルへ保存する'''  # --- (*12)
+    with open(fname, "wb") as f:
+        pickle.dump(
+            [word_dic, dt_dic, files],
+            f)
+
 
 def load_dic(fname):
     '''辞書をファイルから読み込む''' # --- (*13)
     global word_dic, dt_dic, files
-    n = pickle.load(open(fname, 'rb'))
+    with open(fname, 'rb') as f:
+        n = pickle.load(f)
     word_dic, dt_dic, files = n
 
 def calc_text(text):

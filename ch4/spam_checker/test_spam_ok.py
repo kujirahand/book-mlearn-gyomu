@@ -17,12 +17,15 @@ data_file = "./ok-spam.pickle"
 model_file = "./ok-spam-model.pickle"
 label_names = ['OK', 'SPAM']
 # 単語辞書を読み出す --- (※2)
-data = pickle.load(open(data_file, "rb"))
+with open(data_file, "rb") as f:
+    data = pickle.load(f)
 word_dic = data[2]
 # MeCabの準備
 tagger = MeCab.Tagger()
 # 学習済みモデルを読み出す --- (※3)
-model = pickle.load(open(model_file, "rb"))
+with open(model_file, "rb") as f:
+    model = pickle.load(f)
+
 
 # テキストがスパムかどうか判定する ---(*4)
 def check_spam(text):

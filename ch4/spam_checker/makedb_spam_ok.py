@@ -90,6 +90,7 @@ if __name__ == "__main__":
     read_files("spam", 1)
     y, x = make_freq_data_allfiles()
     # ファイルにデータを保存
-    pickle.dump([y, x, word_dic], open(savefile, 'wb'))
+    with open(savefile, 'wb') as f:
+        pickle.dump([y, x, word_dic], f)
     print("ok")
 

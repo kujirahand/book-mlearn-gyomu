@@ -28,7 +28,9 @@ def regist_dic(wordlist):
         w1, w2 = w2, word
     
     # 辞書を保存
-    json.dump(dic, open(dict_file,"w", encoding="utf-8"))
+    with open(dict_file, "w", encoding="utf-8") as f:
+        json.dump(dic, f)
+
 
 # 辞書に単語を設定 --- (*2)
 def set_dic(dic, w1, w2, w3):
@@ -67,8 +69,9 @@ def word_choice(candidate):
 
 # 辞書がすでに存在する場合は、最初に読み込む
 if os.path.exists(dict_file):
-        dic = json.load(open(dict_file,"r"))
-        
+    with open(dict_file, "r") as f:
+        dic = json.load(f)
+
 while True:
     # 標準入力から入力を受け付け、「さようなら」が入力されるまで続ける
     text = input("You -> ")

@@ -10,7 +10,8 @@ in_size = im_size * im_size
 out_size = 46 # ア-ンまでの文字の数
 
 # 保存した画像データ一覧を読み込む --- (*2)
-data = pickle.load(open(data_file, "rb"))
+with open(data_file, "rb") as f:
+    data = pickle.load(f)
 
 # 画像データを0-1の範囲に直す --- (*3)
 y = []

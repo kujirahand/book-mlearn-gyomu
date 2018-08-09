@@ -5,9 +5,10 @@ import sklearn.metrics as metrics
 import numpy as np
 
 # TF-IDFのデータベースを読み込む --- (*1)
-data = pickle.load(open("text/genre.pickle", "rb"))
-y = data[0] # ラベル
-x = data[1] # TF-IDF
+with open("text/genre.pickle", "rb") as f:
+    data = pickle.load(f)
+y = data[0]  # ラベル
+x = data[1]  # TF-IDF
 
 # 学習用とテスト用に分ける --- (*2)
 x_train, x_test, y_train, y_test = train_test_split(
