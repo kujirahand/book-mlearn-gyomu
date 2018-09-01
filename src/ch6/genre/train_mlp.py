@@ -6,6 +6,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout
 from keras.optimizers import RMSprop
 import matplotlib.pyplot as plt
+import numpy as np
 
 # 分類するラベルの数 --- (*1)
 nb_classes = 4
@@ -20,7 +21,7 @@ in_size = x[0].shape[0]
 
 # 学習用とテスト用を分ける --- (*4)
 x_train, x_test, y_train, y_test = train_test_split(
-        x, y, test_size=0.2)
+        np.array(x), np.array(y), test_size=0.2)
 
 # MLPモデル構造を定義 --- (*5)
 model = Sequential()
