@@ -7,6 +7,7 @@ from keras.layers import Dense, Dropout
 from keras.optimizers import RMSprop
 import matplotlib.pyplot as plt
 import numpy as np
+import h5py
 
 # 分類するラベルの数 --- (*1)
 nb_classes = 4
