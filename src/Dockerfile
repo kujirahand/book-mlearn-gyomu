@@ -80,7 +80,7 @@ RUN set -x && \
         scipy \
         sklearn \
         seaborn \
-        opencv-python==3.4.0.12 \
+        opencv-python==4.1.0.25 \
         tensorflow==1.5.0 \
         keras==2.1.4 \
         flask

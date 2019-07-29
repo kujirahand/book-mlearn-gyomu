@@ -19,7 +19,7 @@ while True:
     frame_diff = cv2.absdiff(img_last, img_b) # --- (*3)
     cnts = cv2.findContours(frame_diff, 
             cv2.RETR_EXTERNAL,
-            cv2.CHAIN_APPROX_SIMPLE)[1]
+            cv2.CHAIN_APPROX_SIMPLE)[0]
     # 差分があった点を画面に描く --- (*4)
     for pt in cnts:
         x, y, w, h = cv2.boundingRect(pt)

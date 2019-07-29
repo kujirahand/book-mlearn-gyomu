@@ -18,7 +18,7 @@ def detect_zipno(fname):
     # 輪郭を抽出 --- (*3)
     cnts = cv2.findContours(im2, 
         cv2.RETR_LIST,
-        cv2.CHAIN_APPROX_SIMPLE)[1]
+        cv2.CHAIN_APPROX_SIMPLE)[0]
     
     # 抽出した輪郭を単純なリストに変換--- (*4)
     result = []

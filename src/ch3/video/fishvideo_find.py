@@ -28,7 +28,7 @@ while True:
         frame_diff = cv2.absdiff(img_last, img_b)
         cnts = cv2.findContours(frame_diff, 
             cv2.RETR_EXTERNAL,
-            cv2.CHAIN_APPROX_SIMPLE)[1]
+            cv2.CHAIN_APPROX_SIMPLE)[0]
         # 差分領域に魚が映っているか調べる
         fish_count = 0
         for pt in cnts:

@@ -15,11 +15,9 @@ plt.subplot(1, 2, 1)
 plt.imshow(im2, cmap="gray")
 
 # 輪郭を抽出 --- (*4)
-arg_n = 1
-if cv2.__version__[0] == '4': arg_n = 0
 cnts = cv2.findContours(im2, 
         cv2.RETR_LIST,
-        cv2.CHAIN_APPROX_SIMPLE)[arg_n]
+        cv2.CHAIN_APPROX_SIMPLE)[0]
 # 抽出した枠を描画 --- (*5)
 for pt in cnts:
     x, y, w, h = cv2.boundingRect(pt)
