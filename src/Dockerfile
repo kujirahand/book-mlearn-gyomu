@@ -59,9 +59,13 @@ RUN set -x && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
+# update pip
 RUN set -x && \
-#    pip3 install --upgrade pip && \
-    pip3 --no-cache-dir install \
+    pip3 install --upgrade pip
+
+# install library
+RUN set -x && \
+    pip3 install \
         requests \
         setuptools \
         Pillow \
