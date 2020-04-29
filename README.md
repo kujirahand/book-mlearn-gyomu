@@ -1,7 +1,7 @@
 # すぐに使える！業務で実践できる！Pythonによる AI・機械学習・深層学習アプリのつくり方
 
 このリポジトリは、書籍のサンプルプログラム一覧です。GitHubの画面の右上[Clone or Download] > [Download ZIP]から、ダウンロードできます。
-もちろん、Gitのツールを利用して、GitHubのリポジトリをcloneして使うこともできます。
+ただし、書籍の最後に第n刷と書かれています。第8刷以前の場合は、[こちら](https://github.com/kujirahand/book-mlearn-gyomu/releases/tag/1.0.0)よりソースコードをダウンロードしてください。
 
 - 単行本: 400ページ
 - 出版社: ソシム (2018/6/29)
