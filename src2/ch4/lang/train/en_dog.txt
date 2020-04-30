@@ -1,0 +1,380 @@
+Dog
+From Wikipedia, the free encyclopedia
+This article is about the domestic dog. For related species known as "dogs", see Canidae. For other uses, see Dog (disambiguation).
+"Doggie" redirects here. For the Danish artist, see Doggie (artist).
+Domestic dog
+Temporal range: Late Pleistocene – Present (14,700–0 years BP)
+Collage of Nine Dogs.jpg
+Selection of the different breeds of dog
+Conservation status
+Domesticated
+Scientific classification e
+Kingdom:	Animalia
+Phylum:	Chordata
+Class:	Mammalia
+Order:	Carnivora
+Suborder:	Caniformia
+Family:	Canidae
+Genus:	Canis
+Species:	C. lupus
+Subspecies:	C. l. familiaris[1]
+Trinomial name
+Canis lupus familiaris[1]
+Synonyms
+Canis familiaris (Linnaeus, 1758)[2][3]
+
+
+Montage showing the morphological variation of the dog.
+The domestic dog (Canis lupus familiaris or Canis familiaris)[4] is a member of the genus Canis (canines), which forms part of the wolf-like canids,[5] and is the most widely abundant terrestrial carnivore.[6][7][8][9][10] The dog and the extant gray wolf are sister taxa[11][12][13] as modern wolves are not closely related to the wolves that were first domesticated,[12][13] which implies that the direct ancestor of the dog is extinct.[14] The dog is the first species to be domesticated[13][15] and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.[16]
+
+Their long association with humans has led dogs to be uniquely attuned to human behavior[17] and they are able to thrive on a starch-rich diet that would be inadequate for other canid species.[18] New research seems to show that dogs have mutations to equivalent genetic regions in humans where changes are known to trigger high sociability and somewhat reduced intelligence.[19][20] Dogs vary widely in shape, size and colors.[21] Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals and therapeutic roles. This influence on human society has given them the sobriquet "man's best friend".
+
+Contents  [hide] 
+1	Etymology
+2	Terminology
+3	Taxonomy
+4	Origin
+5	Biology
+5.1	Anatomy
+5.1.1	Size and weight
+5.1.2	Senses
+5.1.3	Coat
+5.1.4	Tail
+5.2	Health
+5.2.1	Lifespan
+5.3	Reproduction
+5.3.1	Neutering
+5.4	Inbreeding depression
+6	Intelligence, behavior and communication
+6.1	Intelligence
+6.2	Behavior
+6.3	Communication
+7	Comparison with wolves
+7.1	Physical characteristics
+7.2	Behavioral differences
+8	Ecology
+8.1	Population and habitat
+8.2	Competitors
+8.3	Diet
+9	Breeds
+10	Roles with humans
+10.1	Early roles
+10.2	As pets
+10.3	Work
+10.4	Sports and shows
+10.5	As food
+10.6	Health risks to humans
+10.7	Health benefits for humans
+10.8	Medical detection dogs
+10.9	Shelters
+11	Cultural depictions
+11.1	Mythology
+11.2	Literature
+11.3	Religion
+11.4	Art
+12	See also
+13	Notes
+14	References
+15	Bibliography
+16	Further reading
+17	External links
+Etymology
+The term "domestic dog" is generally used for both domesticated and feral varieties. The English word dog comes from Middle English dogge, from Old English docga, a "powerful dog breed".[22] The term may possibly derive from Proto-Germanic *dukkōn, represented in Old English finger-docce ("finger-muscle").[23] The word also shows the familiar petname diminutive -ga also seen in frogga "frog", picga "pig", stagga "stag", wicga "beetle, worm", among others.[24] Piotr Gąsiorowski has suggested that Old English *docga is actually derived from Old English colour adjective dox.[25]
+
+In 14th-century England, hound (from Old English: hund) was the general word for all domestic canines, and dog referred to a subtype of hound, a group including the mastiff. It is believed this "dog" type was so common, it eventually became the prototype of the category "hound".[26] By the 16th century, dog had become the general word, and hound had begun to refer only to types used for hunting.[27] The word "hound" is ultimately derived from the Proto-Indo-European word *kwon-, "dog".[28] This semantic shift may be compared with in German, where the corresponding words Dogge and Hund kept their original meanings. The term *ḱwon- may ultimately derive from the earliest layer of Proto-Indo-European vocabulary.[29]
+
+A male canine is referred to as a "dog", while a female is traditionally called a "bitch" (derived from Middle English bicche, from Old English bicce, ultimately from Old Norse bikkja. Since the word "bitch" has taken on derogatory connotations, nowadays it is less commonly used to refer to dogs).[citation needed] The father of a litter is called the sire, and the mother is called the dam. The process of birth is "whelping", from the Old English word hwelp; the modern English word "whelp" is an alternative term for puppy.[30] A litter refers to the multiple offspring at one birth which are called puppies or pups from the French poupée, "doll", which has mostly replaced the older term "whelp".[31]
+
+Terminology
+The term dog typically is applied both to the species (or subspecies) as a whole, and any adult male member of the same.
+An adult female is a bitch.
+An adult male capable of reproduction is a stud.
+An adult female capable of reproduction is a brood bitch, or brood mother.
+Immature males or females (that is, animals that are incapable of reproduction) are pups or puppies.
+A group of pups from the same gestation period is a litter.
+The father of a litter is a sire. It is possible for one litter to have multiple sires.
+The mother of a litter is a dam.
+A group of any three or more adults is a pack.
+Taxonomy
+In 1758, the taxonomist Linnaeus published in his Systema Naturae the classification of species. Canis is a Latin word meaning dog,[32] and under this genus he listed the dog-like carnivores including domestic dogs, wolves, and jackals. He classified the domestic dog as Canis familiaris (Linnaeus, 1758) and on the next page as a separate species he classified the wolf as Canis lupus (Linnaeus, 1758).[2] In 1926, the International Commission on Zoological Nomenclature (ICZN) ruled in Opinion 91 that the domestic dog Canis familiaris (Linnaeus, 1758) be placed on its official list.[3] In 1957, the ICZN ruled in Opinion 451 that Canis dingo (Meyer, 1793) was the name to be used for the dingo and that this be placed on its official list.[33] These are the scientific names for the dog and dingo that appear on the Official Lists and Indexes of Names in Zoology of the ICZN.[34]
+
+In 1978, a review to minimize the number species listed under genus Canis proposed that "Canis dingo is now generally regarded as a distinctive feral domestic dog. Canis familiaris is used for domestic dogs, although taxonomically it should probably be synonymous with Canis lupus."[35] In 1982, the first edition of Mammal Species of the World included a note under Canis lupus with the comment: "Probably ancestor of and conspecific with the domestic dog, familiaris. Canis familiaris has page priority over Canis lupus, but both were published simultaneously in Linnaeus (1758), and Canis lupus has been universally used for this species".[36] In the same year, an application was made to the ICZN to reclassify the dingo to Canis lupus dingo because it was proposed that the wolf (Canis lupus) was the ancestor of dogs and dingoes, however the application was rejected.[37]
+
+In 2003, the ICZN ruled in its Opinion 2027 that the "name of a wild species...is not invalid by virtue of being predated by the name based on a domestic form." Additionally, the ICZN placed the taxon Canis lupus as a conserved name on the official list under this opinion.[38] In the third edition of Mammal Species of the World published in 2005, the mammalogist W. Christopher Wozencraft listed under the wolf Canis lupus what he proposed to be two subspecies: "familiaris Linneaus, 1758 [domestic dog]" and "dingo Meyer, 1793 [domestic dog]",[a] with the comment "Includes the domestic dog as a subspecies, with the dingo provisionally separate – artificial variants created by domestication and selective breeding. Although this may stretch the subspecies concept, it retains the correct allocation of synonyms."[1] Although the earliest use of the name "dingo" was Canis familiaris dingo (Blumenbach, 1780),[39] Wozencraft attributed it to Meyer from 1793 without comment.[40]
+
+This classification by Wozencraft is hotly debated by zoologists.[37] Mathew Crowther, Stephen Jackson and Colin Groves disagree with Wozencraft and argue that based on ICZN Opinion 2027, the implication is that a domestic animal cannot be a subspecies.[41][42] Crowther, Juliet Clutton-Brock and others argue that because the dingo differs from wolves by behavior, morphology, and that the dingo and dog do not fall genetically within any extant wolf clade, that the dingo should be considered the distinct taxon Canis dingo.[43][37][42] Jackson and Groves regard the dog Canis familiaris as a taxonomic synonym for the wolf Canis lupus with them both equally ranked at the species level. They also disagree with Crowther, based on the overlap between dogs and dingoes in their morphology, in their ability to easily hybridize with each other, and that they show the signs of domestication by both having a cranium of smaller capacity than their progenitor, the wolf. Given that Canis familiaris (Linnaeus, 1758) has date priority over Canis dingo (Meyer, 1793), they regard the dingo as a junior taxonomic synonym for the dog Canis familiaris.[41] Gheorghe Benga and others support the dingo as a subspecies of the dog from the earlier Canis familiaris dingo (Blumenbach, 1780).[44][45][46] Xiaoming Wang and Richard H. Tedford proposed that the dog should be classified as Canis lupus familiaris under the Biological Species Concept and Canis familiaris under the Evolutionary Species Concept.[4]
+
+Origin
+Main article: Origin of the domestic dog
+The origin of the domestic dog is not clear. It is known that the dog was the first domesticated species.[13][15] The domestic dog is a member of the genus Canis (canines), which forms part of the wolf-like canids,[5] and is the most widely abundant terrestrial carnivore.[6][7][8][9][10] The closest living relative of the dog is the gray wolf and there is no evidence of any other canine contributing to its genetic lineage.[7][8][47][11] The dog and the extant gray wolf form two sister clades,[11][12][13] with modern wolves not closely related to the wolves that were first domesticated.[12][13] The archaeological record shows the first undisputed dog remains buried beside humans 14,700 years ago,[48] with disputed remains occurring 36,000 years ago.[49] These dates imply that the earliest dogs arose in the time of human hunter-gatherers and not agriculturists.[8][12]
+
+Where the genetic divergence of dog and wolf took place remains controversial, with the most plausible proposals spanning Western Europe,[50][8] Central Asia,[50][51] and East Asia.[50][52] This has been made more complicated by the most recent proposal that fits the available evidence, which is that an initial wolf population split into East and West Eurasian wolves, these were then domesticated independently before going extinct into two distinct dog populations between 14,000-6,400 years ago, and then the Western Eurasian dog population was partially and gradually replaced by East Asian dogs that were brought by humans at least 6,400 years ago.[50][53][54]
+
+Biology
+
+Lateral view of skeleton.
+
+"Five different types of dogs," c. 1547.
+Anatomy
+Main article: Dog anatomy
+Domestic dogs have been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes.[16] Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal.[16] Dogs are predators and scavengers, and like many other predatory mammals, the dog has powerful muscles, fused wrist bones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing.
+
+Size and weight
+Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an English Mastiff which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail.[55] The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.[56]
+
+Senses
+The dog's senses include vision, hearing, sense of smell, sense of taste, touch and sensitivity to the earth's magnetic field. Another study suggested that dogs can see the earth's magnetic field.[57][58]
+
+See further: Dog anatomy-senses
+Coat
+Main article: Coat (dog)
+
+Montage showing the coat variation of the dog.
+
+A Golden Retriever with a golden shade of coat. Shades of coat colors can vary within breeds of dogs. For example, some Golden Retrievers have light, almost cream colored coats, and others may have dark, brownish shades of coat. [59]
+The coats of domestic dogs are of two varieties: "double" being common with dogs (as well as wolves) originating from colder climates, made up of a coarse guard hair and a soft down hair, or "single", with the topcoat only.
+
+Domestic dogs often display the remnants of countershading, a common natural camouflage pattern. A countershaded animal will have dark coloring on its upper surfaces and light coloring below,[60] which reduces its general visibility. Thus, many breeds will have an occasional "blaze", stripe, or "star" of white fur on their chest or underside.[61]
+
+Regarding coat appearance or health, the coat can be maintained or affected by multiple nutrients present in the diet, see Coat (dog) for more information.
+
+Tail
+See also: Docking
+There are many different shapes for dog tails: straight, straight up, sickle, curled, or cork-screw. As with many canids, one of the primary functions of a dog's tail is to communicate their emotional state, which can be important in getting along with others. In some hunting dogs, however, the tail is traditionally docked to avoid injuries.[62] In some breeds, such as the Braque du Bourbonnais, puppies can be born with a short tail or no tail at all.[63]
+
+Health
+Main article: Dog health
+There are many household plants that are poisonous to dogs including begonia, Poinsettia and aloe vera.[64]
+
+Some breeds of dogs are prone to certain genetic ailments such as elbow and hip dysplasia, blindness, deafness, pulmonic stenosis, cleft palate, and trick knees. Two serious medical conditions particularly affecting dogs are pyometra, affecting unspayed females of all types and ages, and gastric dilatation volvulus (bloat), which affects the larger breeds or deep-chested dogs. Both of these are acute conditions, and can kill rapidly. Dogs are also susceptible to parasites such as fleas, ticks, and mites, as well as hookworms, tapeworms, roundworms, and heartworms.
+
+A number of common human foods and household ingestibles are toxic to dogs, including chocolate solids (theobromine poisoning), onion and garlic (thiosulphate, sulfoxide or disulfide poisoning),[65] grapes and raisins, macadamia nuts, xylitol,[66] as well as various plants and other potentially ingested materials.[67][68] The nicotine in tobacco can also be dangerous. Dogs can be exposed to the substance by scavenging garbage or ashtrays; eating cigars and cigarettes. Signs can be vomiting of large amounts (e.g., from eating cigar butts) or diarrhea. Some other signs are abdominal pain, loss of coordination, collapse, or death.[69] Dogs are highly susceptible to theobromine poisoning, typically from ingestion of chocolate. Theobromine is toxic to dogs because, although the dog's metabolism is capable of breaking down the chemical, the process is so slow that even small amounts of chocolate can be fatal, especially dark chocolate.
+
+Dogs are also vulnerable to some of the same health conditions as humans, including diabetes, dental and heart disease, epilepsy, cancer, hypothyroidism, and arthritis.[70]
+
+Lifespan
+Further information: Aging in dogs
+
+A mixed-breed terrier. Mixed-breed dogs have been found to run faster and live longer than their pure-bred parents (See heterosis)
+In 2013, a study found that mixed breeds live on average 1.2 years longer than pure breeds, and that increasing body-weight was negatively correlated with longevity (i.e. the heavier the dog the shorter its lifespan).[71]
+
+The typical lifespan of dogs varies widely among breeds, but for most the median longevity, the age at which half the dogs in a population have died and half are still alive, ranges from 10 to 13 years.[72][73][74][75] Individual dogs may live well beyond the median of their breed.
+
+The breed with the shortest lifespan (among breeds for which there is a questionnaire survey with a reasonable sample size) is the Dogue de Bordeaux, with a median longevity of about 5.2 years, but several breeds, including Miniature Bull Terriers, Bloodhounds, and Irish Wolfhounds are nearly as short-lived, with median longevities of 6 to 7 years.[75]
+
+The longest-lived breeds, including Toy Poodles, Japanese Spitz, Border Terriers, and Tibetan Spaniels, have median longevities of 14 to 15 years.[75] The median longevity of mixed-breed dogs, taken as an average of all sizes, is one or more years longer than that of purebred dogs when all breeds are averaged.[73][74][75][76] The dog widely reported to be the longest-lived is "Bluey", who died in 1939 and was claimed to be 29.5 years old at the time of his death. On 5 December 2011, Pusuke, the world's oldest living dog recognized by Guinness Book of World Records, died aged 26 years and 9 months.[77]
+
+Reproduction
+Main article: Canine reproduction
+
+Dog nursing newborn puppies
+In domestic dogs, sexual maturity begins to happen around age six to twelve months for both males and females,[16][78] although this can be delayed until up to two years old for some large breeds. This is the time at which female dogs will have their first estrous cycle. They will experience subsequent estrous cycles semiannually, during which the body prepares for pregnancy. At the peak of the cycle, females will come into estrus, being mentally and physically receptive to copulation.[16] Because the ova survive and are capable of being fertilized for a week after ovulation, it is possible for a female to mate with more than one male.[16]
+
+Fertilization typically occurs 2–5 days after ovulation; 14–16 days after ovulation, the embryo attaches to the uterus, and after 7-8 more days the heart beat is detectable.[79][80]
+
+Dogs bear their litters roughly 58 to 68 days after fertilization,[16][81] with an average of 63 days, although the length of gestation can vary. An average litter consists of about six puppies,[82] though this number may vary widely based on the breed of dog. In general, toy dogs produce from one to four puppies in each litter, while much larger breeds may average as many as twelve.
+
+Some dog breeds have acquired traits through selective breeding that interfere with reproduction. Male French Bulldogs, for instance, are incapable of mounting the female. For many dogs of this breed, the female must be artificially inseminated in order to reproduce.[83]
+
+Neutering
+
+A feral dog from Sri Lanka nursing her four puppies
+Neutering refers to the sterilization of animals, usually by removal of the male's testicles or the female's ovaries and uterus, in order to eliminate the ability to procreate and reduce sex drive. Because of the overpopulation of dogs in some countries, many animal control agencies, such as the American Society for the Prevention of Cruelty to Animals (ASPCA), advise that dogs not intended for further breeding should be neutered, so that they do not have undesired puppies that may have to later be euthanized.[84]
+
+According to the Humane Society of the United States, 3–4 million dogs and cats are put down each year in the United States and many more are confined to cages in shelters because there are many more animals than there are homes. Spaying or castrating dogs helps keep overpopulation down.[85] Local humane societies, SPCAs, and other animal protection organizations urge people to neuter their pets and to adopt animals from shelters instead of purchasing them.
+
+Neutering reduces problems caused by hypersexuality, especially in male dogs.[86] Spayed female dogs are less likely to develop some forms of cancer, affecting mammary glands, ovaries, and other reproductive organs.[87] However, neutering increases the risk of urinary incontinence in female dogs,[88] and prostate cancer in males,[89] as well as osteosarcoma, hemangiosarcoma, cruciate ligament rupture, obesity, and diabetes mellitus in either sex.[90]
+
+Inbreeding depression
+A common breeding practice for pet dogs is mating between close relatives (e.g. between half- and full siblings).[91] In a study of seven different French breeds of dogs (Bernese mountain dog, basset hound, Cairn terrier, Epagneul Breton, German Shepherd dog, Leonberger, and West Highland white terrier) it was found that inbreeding decreases litter size and survival.[92] Another analysis of data on 42,855 dachshund litters, found that as the inbreeding coefficient increased, litter size decreased and the percentage of stillborn puppies increased, thus indicating inbreeding depression.[93]
+
+About 22% of boxer puppies die before reaching 7 weeks of age.[94] Stillbirth is the most frequent cause of death, followed by infection. Mortality due to infection was found to increase significantly with increases in inbreeding.[94] Inbreeding depression is considered to be due largely to the expression of homozygous deleterious recessive mutations.[95] Outcrossing between unrelated individuals, including dogs of different breeds, results in the beneficial masking of deleterious recessive mutations in progeny.[96]
+
+Intelligence, behavior and communication
+Intelligence
+Main article: Dog intelligence
+Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference. A study with Rico showed that he knew the labels of over 200 different items. He inferred the names of novel items by exclusion learning and correctly retrieved those novel items immediately and also 4 weeks after the initial exposure. Dogs have advanced memory skills. A study documented the learning and memory capabilities of a border collie, "Chaser", who had learned the names and could associate by verbal command over 1,000 words. Dogs are able to read and react appropriately to human body language such as gesturing and pointing, and to understand human voice commands. Dogs demonstrate a theory of mind by engaging in deception. An experimental study showed compelling evidence that Australian dingos can outperform domestic dogs in non-social problem-solving, indicating that domestic dogs may have lost much of their original problem-solving abilities once they joined humans.[97] Another study indicated that after undergoing training to solve a simple manipulation task, dogs that are faced with an insoluble version of the same problem look at the human, while socialized wolves do not.[98] Modern domestic dogs use humans to solve their problems for them.[99][100]
+
+Behavior
+Main article: Dog behavior
+Dog behavior is the internally coordinated responses (actions or inactions) of the domestic dog (individuals or groups) to internal and/or external stimuli.[101] As the oldest domesticated species, with estimates ranging from 9,000–30,000 years BCE, the minds of dogs inevitably have been shaped by millennia of contact with humans. As a result of this physical and social evolution, dogs, more than any other species, have acquired the ability to understand and communicate with humans, and they are uniquely attuned to human behaviors.[17] Behavioral scientists have uncovered a surprising set of social-cognitive abilities in the domestic dog. These abilities are not possessed by the dog's closest canine relatives nor by other highly intelligent mammals such as great apes but rather parallel some of the social-cognitive skills of human children.[102] Traits of high sociability and lack of fear in dogs may include genetic modifications related to Williams-Beuren syndrome in humans, which cause hypersociability at the expense of problem solving ability.[103]
+
+Communication
+Main article: Dog communication
+Dog communication is about how dogs "speak" to each other, how they understand messages that humans send to them, and how humans can translate the ideas that dogs are trying to transmit.[104]:xii These communication behaviors include eye gaze, facial expression, vocalization, body posture (including movements of bodies and limbs) and gustatory communication (scents, pheromones and taste). Humans communicate with dogs by using vocalization, hand signals and body posture.
+
+Comparison with wolves
+
+The Saarloos wolfdog carries more gray wolf DNA than any other dog breed[105]
+Physical characteristics
+Despite their close genetic relationship and the ability to inter-breed, there are a number of diagnostic features to distinguish the gray wolves from domestic dogs. Domesticated dogs are clearly distinguishable from wolves by starch gel electrophoresis of red blood cell acid phosphatase.[106] The tympanic bullae are large, convex and almost spherical in gray wolves, while the bullae of dogs are smaller, compressed and slightly crumpled.[107] Compared with equally sized wolves, dogs tend to have 20% smaller skulls and 30% smaller brains.[108]:35 The teeth of gray wolves are also proportionately larger than those of dogs.[109] Dogs have a more domed forehead and a distinctive "stop" between forehead and nose.[110] The temporalis muscle that closes the jaws is more robust in wolves.[4]:p158 Wolves do not have dewclaws on their back legs, unless there has been admixture with dogs that had them.[111] Most dogs lack a functioning pre-caudal gland and enter estrus twice yearly, unlike gray wolves which only do so once a year.[112] So-called primitive dogs such as Dingoes and Basenjis retain the yearly estrus cycle.[113] Dogs generally have brown eyes and wolves almost always have amber or light colored eyes.[114] The skin of domestic dogs tends to be thicker than that of wolves, with some Inuit tribes favoring the former for use as clothing due to its greater resistance to wear and tear in harsh weather.[115] The paws of a dog are half the size of those of a wolf, and their tails tend to curl upwards, another trait not found in wolves[116] The dog has developed into hundreds of varied breeds, and shows more behavioral and morphological variation than any other land mammal.[117] For example, height measured to the withers ranges from a 6 inches (150 mm) in the Chihuahua to 3.3 feet (1.0 m) in the Irish Wolfhound; color varies from white through grays (usually called "blue") to black, and browns from light (tan) to dark ("red" or "chocolate") in a wide variation of patterns; coats can be short or long, coarse-haired to wool-like, straight, curly, or smooth.[118] It is common for most breeds to shed their coat.
+
+Behavioral differences
+See also: Dog behavior § Behavior compared with other canids
+Unlike other domestic species which were primarily selected for production-related traits, dogs were initially selected for their behaviors.[119][120] In 2016, a study found that there were only 11 fixed genes that showed variation between wolves and dogs. These gene variations were unlikely to have been the result of natural evolution, and indicate selection on both morphology and behavior during dog domestication. These genes have been shown to affect the catecholamine synthesis pathway, with the majority of the genes affecting the fight-or-flight response[120][121] (i.e. selection for tameness), and emotional processing.[120] Dogs generally show reduced fear and aggression compared with wolves.[120][122] Some of these genes have been associated with aggression in some dog breeds, indicating their importance in both the initial domestication and then later in breed formation.[120] New research seems to show that the dog's high sociability may be affected by equivalent mutations to "the same genes as in humans" to cause Williams syndrome which is distinguished by high sociability and lowered intelligence.[19][20]
+
+Ecology
+Population and habitat
+The global dog population is estimated at 900 million and rising.[123][124] Although it is said that the "dog is man's best friend"[125] regarding 17–24% of dogs in developed countries, in the developing world they are feral, village or community dogs, with pet dogs uncommon.[115] Most of these dogs live their lives as scavengers and have never been owned by humans, with one study showing their most common response when approached by strangers is to run away (52%) or respond aggressively. (11%).[126] Little is known about these dogs, or the dogs in developed countries that are feral, stray or are in shelters, as the majority of modern research on dog cognition has focused on pet dogs living in human homes.[127]
+
+Competitors
+Being the most abundant and widely distributed terrestrial carnivores, feral and free-ranging dogs have the greatest potential to compete with other carnivores.[6] A review of the studies in the competitive effects of dogs on sympatric carnivores did not mention any research on competition between dogs and wolves.[124][128] Competition would favor the wolf as it is known to kill dogs, however wolves tend to live in pairs or in small packs in areas where they are highly persecuted, giving them a disadvantage facing large dog groups.[124][129]
+
+Wolves kill dogs wherever they are found together.[130] One survey claims that in Wisconsin in 1999 more compensation had been paid for dog losses than livestock, however in Wisconsin wolves will often kill hunting dogs, perhaps because they are in the wolf's territory.[130] Some wolf pairs have been reported to prey on dogs by having one wolf lure the dog out into heavy brush where the second animal waits in ambush.[131] In some instances, wolves have displayed an uncharacteristic fearlessness of humans and buildings when attacking dogs, to the extent that they have to be beaten off or killed.[132] Although the numbers of dogs killed each year are relatively low, it induces a fear of wolves entering villages and farmyards to take dogs. In many cultures, there are strong social and emotional bonds between humans and their dogs that can be seen as family members or working team members. The loss of a dog can lead to strong emotional responses with demands for more liberal wolf hunting regulations.[124]
+
+Coyotes and big cats have also been known to attack dogs. Leopards in particular are known to have a predilection for dogs, and have been recorded to kill and consume them regardless of their size or ferocity.[133] Tigers in Manchuria, Indochina, Indonesia, and Malaysia are reputed to kill dogs with the same vigor as leopards.[134] Striped hyenas are major predators of stray dogs in Turkmenistan, India, and the Caucasus.[135]
+
+The spiked collar common on working and pet dogs is no mere ornament: it originated as a protection of the vulnerable neck of a dog from wolves, but also protects dogs from attacks by other dogs.[136][better source needed]
+
+Diet
+See also: Dog food
+
+Golden Retriever gnawing a pig's foot
+Despite their descent from wolves and classification as Carnivora, dogs are variously described in scholarly and other writings as carnivores[137][138] or omnivores.[16][139][140][141] Unlike obligate carnivores, dogs can adapt to a wide-ranging diet, and are not dependent on meat-specific protein nor a very high level of protein in order to fulfill their basic dietary requirements. Dogs will healthily digest a variety of foods, including vegetables and grains, and can consume a large proportion of these in their diet, however all-meat diets are not recommended for dogs due to their lack of calcium and iron.[16] Comparing dogs and wolves, dogs have adaptations in genes involved in starch digestion that contribute to an increased ability to thrive on a starch-rich diet.[18]
+
+Breeds
+Main article: Dog breed
+Further information: Dog type
+
+Cavalier King Charles Spaniels demonstrate different colored coats within the one breed
+Most breeds of dog are at most a few hundred years old, having been artificially selected for particular morphologies and behaviors by people for specific functional roles. Through this selective breeding, the dog has developed into hundreds of varied breeds, and shows more behavioral and morphological variation than any other land mammal.[117] For example, height measured to the withers ranges from 15.2 centimetres (6.0 in) in the Chihuahua to about 76 cm (30 in) in the Irish Wolfhound; color varies from white through grays (usually called "blue") to black, and browns from light (tan) to dark ("red" or "chocolate") in a wide variation of patterns; coats can be short or long, coarse-haired to wool-like, straight, curly, or smooth.[118] It is common for most breeds to shed this coat.
+
+While all dogs are genetically very similar,[142] natural selection and selective breeding have reinforced certain characteristics in certain populations of dogs, giving rise to dog types and dog breeds. Dog types are broad categories based on function, genetics, or characteristics.[143] Dog breeds are groups of animals that possess a set of inherited characteristics that distinguishes them from other animals within the same species.[vague][citation needed] Modern dog breeds are non-scientific classifications of dogs kept by modern kennel clubs.
+
+Purebred dogs of one breed are genetically distinguishable from purebred dogs of other breeds,[144] but the means by which kennel clubs classify dogs is unsystematic. DNA microsatellite analyses of 85 dog breeds showed they fell into four major types of dogs that were statistically distinct.[144] These include the "old world dogs" (e.g., Malamute and Shar Pei), "Mastiff"-type (e.g., English Mastiff), "herding"-type (e.g., Border Collie), and "all others" (also called "modern"- or "hunting"-type).[144][145]
+
+Roles with humans
+
+Gunnar Kaasen and Balto, the lead dog on the last relay team of the 1925 serum run to Nome.
+Domestic dogs inherited complex behaviors, such as bite inhibition, from their wolf ancestors, which would have been pack hunters with complex body language. These sophisticated forms of social cognition and communication may account for their trainability, playfulness, and ability to fit into human households and social situations, and these attributes have given dogs a relationship with humans that has enabled them to become one of the most successful species on the planet today.[146]:pages95-136
+
+The dogs' value to early human hunter-gatherers led to them quickly becoming ubiquitous across world cultures. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship, and, more recently, aiding handicapped individuals. This influence on human society has given them the nickname "man's best friend" in the Western world. In some cultures, however, dogs are also a source of meat.[147][148]
+
+Early roles
+Wolves, and their dog descendants, would have derived significant benefits from living in human camps—more safety, more reliable food, lesser caloric needs, and more chance to breed.[149] They would have benefited from humans' upright gait that gives them larger range over which to see potential predators and prey, as well as better color vision that, at least by day, gives humans better visual discrimination.[149] Camp dogs would also have benefited from human tool use, as in bringing down larger prey and controlling fire for a range of purposes.[149]
+
+The dogs of Thibet are twice the size of those seen in India, with large heads and hairy bodies. They are powerful animals, and are said to be able to kill a tiger. During the day they are kept chained up, and are let loose at night to guard their masters' house.[150]
+
+Humans would also have derived enormous benefit from the dogs associated with their camps.[151] For instance, dogs would have improved sanitation by cleaning up food scraps.[151] Dogs may have provided warmth, as referred to in the Australian Aboriginal expression "three dog night" (an exceptionally cold night), and they would have alerted the camp to the presence of predators or strangers, using their acute hearing to provide an early warning.[151]
+
+Anthropologists believe the most significant benefit would have been the use of dogs' robust sense of smell to assist with the hunt.[151] The relationship between the presence of a dog and success in the hunt is often mentioned as a primary reason for the domestication of the wolf, and a 2004 study of hunter groups with and without a dog gives quantitative support to the hypothesis that the benefits of cooperative hunting was an important factor in wolf domestication.[152]
+
+The cohabitation of dogs and humans would have greatly improved the chances of survival for early human groups, and the domestication of dogs may have been one of the key forces that led to human success.[153]
+
+Emigrants from Siberia that walked across the Bering land bridge into North America may have had dogs in their company, and one writer[154] suggests that the use of sled dogs may have been critical to the success of the waves that entered North America roughly 12,000 years ago,[154] although the earliest archaeological evidence of dog-like canids in North America dates from about 9,400 years ago.[146]:104[155] Dogs were an important part of life for the Athabascan population in North America, and were their only domesticated animal. Dogs also carried much of the load in the migration of the Apache and Navajo tribes 1,400 years ago. Use of dogs as pack animals in these cultures often persisted after the introduction of the horse to North America.[156]
+
+As pets
+
+Siberian Husky—pack animal
+Couple sitting on the lawn with a pet British Bulldog
+A British Bulldog shares a day at the park.
+
+Green velvet dog collar, dates from 1670 to 1690.
+It is estimated that three-quarters of the world's dog population lives in the developing world as feral, village, or community dogs, with pet dogs uncommon.[115]
+
+"The most widespread form of interspecies bonding occurs between humans and dogs"[151] and the keeping of dogs as companions, particularly by elites, has a long history.[157] (As a possible example, at the Natufian culture site of Ain Mallaha in Israel, dated to 12,000 BC, the remains of an elderly human and a four-to-five-month-old puppy were found buried together).[158] However, pet dog populations grew significantly after World War II as suburbanization increased.[157] In the 1950s and 1960s, dogs were kept outside more often than they tend to be today[159] (using the expression "in the doghouse" to describe exclusion from the group signifies the distance between the doghouse and the home) and were still primarily functional, acting as a guard, children's playmate, or walking companion. From the 1980s, there have been changes in the role of the pet dog, such as the increased role of dogs in the emotional support of their human guardians.[160] People and dogs have become increasingly integrated and implicated in each other's lives,[161] to the point where pet dogs actively shape the way a family and home are experienced.[162]
+
+There have been two major trends in the changing status of pet dogs. The first has been the 'commodification' of the dog, shaping it to conform to human expectations of personality and behaviour.[162] The second has been the broadening of the concept of the family and the home to include dogs-as-dogs within everyday routines and practices.[162]
+
+There are a vast range of commodity forms available to transform a pet dog into an ideal companion.[163] The list of goods, services and places available is enormous: from dog perfumes, couture, furniture and housing, to dog groomers, therapists, trainers and caretakers, dog cafes, spas, parks and beaches, and dog hotels, airlines and cemeteries.[163] While dog training as an organized activity can be traced back to the 18th century, in the last decades of the 20th century it became a high-profile issue as many normal dog behaviors such as barking, jumping up, digging, rolling in dung, fighting, and urine marking (which dogs do to establish territory through scent), became increasingly incompatible with the new role of a pet dog.[164] Dog training books, classes and television programs proliferated as the process of commodifying the pet dog continued.[165]
+
+The majority of contemporary people with dogs describe their pet as part of the family,[162] although some ambivalence about the relationship is evident in the popular reconceptualization of the dog–human family as a pack.[162] A dominance model of dog–human relationships has been promoted by some dog trainers, such as on the television program Dog Whisperer. However it has been disputed that "trying to achieve status" is characteristic of dog–human interactions.[166] Pet dogs play an active role in family life; for example, a study of conversations in dog–human families showed how family members use the dog as a resource, talking to the dog, or talking through the dog, to mediate their interactions with each other.[167]
+
+Increasingly, human family members are engaging in activities centered on the perceived needs and interests of the dog, or in which the dog is an integral partner, such as dog dancing and dog yoga.[163]
+
+According to statistics published by the American Pet Products Manufacturers Association in the National Pet Owner Survey in 2009–2010, it is estimated there are 77.5 million people with pet dogs in the United States.[168] The same survey shows nearly 40% of American households own at least one dog, of which 67% own just one dog, 25% two dogs and nearly 9% more than two dogs. There does not seem to be any gender preference among dogs as pets, as the statistical data reveal an equal number of female and male dog pets. Yet, although several programs are ongoing to promote pet adoption, less than a fifth of the owned dogs come from a shelter.
+
+The latest study using magnetic resonance imaging (MRI) comparing humans and dogs showed that dogs have same response to voices and use the same parts of the brain as humans do. This gives dogs the ability to recognize emotional human sounds, making them friendly social pets to humans.[169]
+
+Work
+Dogs have lived and worked with humans in so many roles that they have earned the unique nickname, "man's best friend",[170] a phrase used in other languages as well. They have been bred for herding livestock,[171] hunting (e.g. pointers and hounds),[108] rodent control,[16] guarding, helping fishermen with nets, detection dogs, and pulling loads, in addition to their roles as companions.[16] In 1957, a husky-terrier mix named Laika became the first animal to orbit the Earth.[172][173]
+
+Service dogs such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs provide assistance to individuals with physical or mental disabilities.[174][175] Some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the guardian to seek safety, medication, or medical care.[176]
+
+Dogs included in human activities in terms of helping out humans are usually called working dogs.
+
+Sports and shows
+See also: Conformation show
+
+Dogs come in a range of sizes.
+People often enter their dogs in competitions[177] such as breed-conformation shows or sports, including racing, sledding and agility competitions.
+
+In conformation shows, also referred to as breed shows, a judge familiar with the specific dog breed evaluates individual purebred dogs for conformity with their established breed type as described in the breed standard. As the breed standard only deals with the externally observable qualities of the dog (such as appearance, movement, and temperament), separately tested qualities (such as ability or health) are not part of the judging in conformation shows.
+
+As food
+Main article: Dog meat
+
+Gaegogi (dog meat) stew being served in a Korean restaurant
+Dog meat is consumed in some East Asian countries, including Korea, China[147] and Vietnam,[148] a practice that dates back to antiquity.[178] It is estimated that 13–16 million dogs are killed and consumed in Asia every year.[179] Other cultures, such as Polynesia and pre-Columbian Mexico, also consumed dog meat in their history. However, Western, South Asian, African, and Middle Eastern cultures, in general, regard consumption of dog meat as taboo. In some places, however, such as in rural areas of Poland, dog fat is believed to have medicinal properties—being good for the lungs for instance.[180] Dog meat is also consumed in some parts of Switzerland.[181] Proponents of eating dog meat have argued that placing a distinction between livestock and dogs is western hypocrisy, and that there is no difference with eating the meat of different animals.[182][183][184][185]
+
+In Korea, the primary dog breed raised for meat, the nureongi (누렁이), differs from those breeds raised for pets that Koreans may keep in their homes.[186]
+
+The most popular Korean dog dish is gaejang-guk (also called bosintang), a spicy stew meant to balance the body's heat during the summer months; followers of the custom claim this is done to ensure good health by balancing one's gi, or vital energy of the body. A 19th century version of gaejang-guk explains that the dish is prepared by boiling dog meat with scallions and chili powder. Variations of the dish contain chicken and bamboo shoots. While the dishes are still popular in Korea with a segment of the population, dog is not as widely consumed as beef, chicken, and pork.[186]
+
+Health risks to humans
+Further information: Dog attack and Canine vector-borne disease
+Further information: Dog bite prevention
+In 2005, the WHO reported that 55,000 people died in Asia and Africa from rabies, a disease for which dogs are the most important vector.[187]
+
+Citing a 2008 study, the U.S. Center for Disease Control estimated in 2015 that 4.5 million people in the USA are bitten by dogs each year.[188] A 2015 study estimated that 1.8% of the U.S. population is bitten each year.[189] In the 1980s and 1990s the US averaged 17 fatalities per year, while in the 2000s this has increased to 26.[190] 77% of dog bites are from the pet of family or friends, and 50% of attacks occur on the property of the dog's legal owner.[190]
+
+A Colorado study found bites in children were less severe than bites in adults.[191] The incidence of dog bites in the US is 12.9 per 10,000 inhabitants, but for boys aged 5 to 9, the incidence rate is 60.7 per 10,000. Moreover, children have a much higher chance to be bitten in the face or neck.[192] Sharp claws with powerful muscles behind them can lacerate flesh in a scratch that can lead to serious infections.[193]
+
+In the UK between 2003 and 2004, there were 5,868 dog attacks on humans, resulting in 5,770 working days lost in sick leave.[194]
+
+In the United States, cats and dogs are a factor in more than 86,000 falls each year.[195] It has been estimated around 2% of dog-related injuries treated in UK hospitals are domestic accidents. The same study found that while dog involvement in road traffic accidents was difficult to quantify, dog-associated road accidents involving injury more commonly involved two-wheeled vehicles.[196]
+
+Toxocara canis (dog roundworm) eggs in dog feces can cause toxocariasis. In the United States, about 10,000 cases of Toxocara infection are reported in humans each year, and almost 14% of the U.S. population is infected.[197] In Great Britain, 24% of soil samples taken from public parks contained T. canis eggs.[198][not in citation given] Untreated toxocariasis can cause retinal damage and decreased vision.[198] Dog feces can also contain hookworms that cause cutaneous larva migrans in humans.[199][200][201][202]
+
+Health benefits for humans
+Small dog laying between the hands
+A human cuddles a Doberman puppy.
+The scientific evidence is mixed as to whether companionship of a dog can enhance human physical health and psychological wellbeing.[203] Studies suggesting that there are benefits to physical health and psychological wellbeing[204] have been criticised for being poorly controlled,[205] and finding that "[t]he health of elderly people is related to their health habits and social supports but not to their ownership of, or attachment to, a companion animal." Earlier studies have shown that people who keep pet dogs or cats exhibit better mental and physical health than those who do not, making fewer visits to the doctor and being less likely to be on medication than non-guardians.[206]
+
+A 2005 paper states "recent research has failed to support earlier findings that pet ownership is associated with a reduced risk of cardiovascular disease, a reduced use of general practitioner services, or any psychological or physical benefits on health for community dwelling older people. Research has, however, pointed to significantly less absenteeism from school through sickness among children who live with pets."[203] In one study, new guardians reported a highly significant reduction in minor health problems during the first month following pet acquisition, and this effect was sustained in those with dogs through to the end of the study.[207]
+
+In addition, people with pet dogs took considerably more physical exercise than those with cats and those without pets. The results provide evidence that keeping pets may have positive effects on human health and behaviour, and that for guardians of dogs these effects are relatively long-term.[207] Pet guardianship has also been associated with increased coronary artery disease survival, with human guardians being significantly less likely to die within one year of an acute myocardial infarction than those who did not own dogs.[208]
+
+The health benefits of dogs can result from contact with dogs in general, and not solely from having dogs as pets. For example, when in the presence of a pet dog, people show reductions in cardiovascular, behavioral, and psychological indicators of anxiety.[209] Other health benefits are gained from exposure to immune-stimulating microorganisms, which, according to the hygiene hypothesis, can protect against allergies and autoimmune diseases. The benefits of contact with a dog also include social support, as dogs are able to not only provide companionship and social support themselves, but also to act as facilitators of social interactions between humans.[210] One study indicated that wheelchair users experience more positive social interactions with strangers when they are accompanied by a dog than when they are not.[211] In 2015, a study found that pet owners were significantly more likely to get to know people in their neighborhood than non-pet owners.[212]
+
+The practice of using dogs and other animals as a part of therapy dates back to the late 18th century, when animals were introduced into mental institutions to help socialize patients with mental disorders.[213] Animal-assisted intervention research has shown that animal-assisted therapy with a dog can increase social behaviors, such as smiling and laughing, among people with Alzheimer's disease.[214] One study demonstrated that children with ADHD and conduct disorders who participated in an education program with dogs and other animals showed increased attendance, increased knowledge and skill objectives, and decreased antisocial and violent behavior compared with those who were not in an animal-assisted program.[215]
+
+Medical detection dogs
+Medical detection dogs are capable of detecting diseases by sniffing a person directly or samples of urine or other specimens. Dogs can detect odour in one part per trillion, as their brain's olfactory cortex is (relative to total brain size) 40 times larger than humans. Dogs may have as many as 300 million odour receptors in their nose, while humans may have only 5 million. Each dog is trained specifically for the detection of single disease from the blood glucose level indicative to diabetes to cancer. The process of training a cancer dog requires six months. A Labrador Retriever called Daisy has detected 551 cancer patients with an accuracy of 93 percent and received the Blue Cross (for pets) Medal for her life-saving skills.[216]
+
+Shelters
+Main article: Animal shelter
+Every year, between 6 and 8 million dogs and cats enter US animal shelters.[217] The Humane Society of the United States (HSUS) estimates that approximately 3 to 4 million of those dogs and cats are euthanized yearly in the United States.[218] However, the percentage of dogs in US animal shelters that are eventually adopted and removed from the shelters by their new legal owners has increased since the mid-1990s from around 25% to a 2012 average of 40% among reporting shelters[219] (with many shelters reporting 60–75%).[220]
+
+Cultural depictions
+
+Spread of Seuso, dogs at Lake Balaton
+Main article: Cultural depictions of dogs
+Dogs have been viewed and represented in different manners by different cultures and religions, over the course of history.
+
+Mythology
+See also: Category:Mythological dogs
+In ancient Mesopotamia, from the Old Babylonian period until the Neo-Babylonian, dogs were the symbol of Ninisina, the goddess of healing and medicine,[221] and her worshippers frequently dedicated small models of seated dogs to her.[221] In the Neo-Assyrian and Neo-Babylonian periods, dogs were used as emblems of magical protection.[221]
+
+In mythology, dogs often serve as pets or as watchdogs.[222] Stories of dogs guarding the gates of the underworld recur throughout Indo-European mythologies[223][224] and may originate from Proto-Indo-European religion.[223][224] In Greek mythology, Cerberus is a three-headed watchdog who guards the gates of Hades.[222] In Norse mythology, a bloody, four-eyed dog called Garmr guards Helheim.[222] In Persian mythology, two four-eyed dogs guard the Chinvat Bridge.[222] In Welsh mythology, Annwn is guarded by Cŵn Annwn.[222] In Hindu mythology, Yama, the god of death, owns two watch dogs who have four eyes. They are said to watch over the gates of Naraka.[225]
+
+The hunter god Muthappan from North Malabar region of Kerala has a hunting dog as his mount. Dogs are found in and out of the Muthappan Temple and offerings at the shrine take the form of bronze dog figurines.[226] In Philippine mythology, Kimat who is the pet of Tadaklan, god of thunder, is responsible for lightning. The role of the dog in Chinese mythology includes a position as one of the twelve animals which cyclically represent years (the zodiacal dog).
+
+Literature
+In Homer's epic poem the Odyssey, when the disguised Odysseus returns home after 20 years he is recognized only by his faithful dog, Argos, who has been waiting for his return.
+
+Religion
+
+A painting of Saint Dominic carrying the Dominican Rosary, with a dog bearing a torch, at his side
+In Christianity, dogs represent faithfulness.[222] Within the Roman Catholic denomination specifically, the iconography of Saint Dominic includes a dog, after the hallow's mother dreamt of a dog springing from her womb and becoming pregnant shortly thereafter.[227] As such, the Dominican Order (Ecclesiastical Latin: Dominicanus) means "dogs of the Lord" of "hounds of the Lord" (Ecclesiastical Latin: domini canis).[227]
+
+Jewish law does not prohibit keeping dogs and other pets.[228] Jewish law requires Jews to feed dogs (and other animals that they own) before themselves, and make arrangements for feeding them before obtaining them.[228]
+
+The view on dogs in Islam is mixed, with some schools of thought viewing it as unclean,[222] although Khaled Abou El Fadl states that this view is based on "pre-Islamic Arab mythology" and "a tradition to be falsely attributed to the Prophet".[229] Therefore, Sunni Malaki and Hanafi jurists permit the trade of and keeping of dogs as pets.[230]
+
+In China, Korea, and Japan, dogs are viewed as kind protectors.[222]
+
+Art
+Main article: Cultural depictions of dogs in Western art
+	Wikimedia Commons has media related to Dogs in art.
+Cultural depictions of dogs in art extend back thousands of years to when dogs were portrayed on the walls of caves. Representations of dogs became more elaborate as individual breeds evolved and the relationships between human and canine developed. Hunting scenes were popular in the Middle Ages and the Renaissance. Dogs were depicted to symbolize guidance, protection, loyalty, fidelity, faithfulness, watchfulness, and love.[231]

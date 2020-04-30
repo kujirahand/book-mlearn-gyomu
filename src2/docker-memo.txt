@@ -1,0 +1,15 @@
+Dockerイメージのビルド:
+
+$ docker build -t book-mlearn-image .
+
+コンテナの起動:
+
+$ docker run -it -p 8888:8888 -v `pwd`:/src book-mlearn-image
+
+終了したコンテナの再開:
+
+$ docker ps -a
+
+$ docker start xxxxx
+$ docker attach xxxxxx
+
