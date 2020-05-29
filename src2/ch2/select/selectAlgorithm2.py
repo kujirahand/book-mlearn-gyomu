@@ -21,15 +21,18 @@ warnings.simplefilter("error")
 for(name, algorithm) in allAlgorithms :
   try :
     # 各アリゴリズムのオブジェクトを作成 --- (※2)
-    clf = algorithm()
+    if(name == "LinearSVC") :
+      clf = algorithm(max_iter = 10000)
+    else:
+      clf = algorithm()
 
     # 学習して、評価する --- (※3)
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
     print(name,"の正解率 = " , accuracy_score(y_test, y_pred))
   
-  # WarningやExceptionの内容を表示する --- (※4)
+  # Warningのの内容を表示し、Exceptionは無視する --- (※4)
   except Warning as w :
     print("\033[33m"+"Warning："+"\033[0m", name, ":", w.args)
   except Exception as e :
-    print("\033[31m"+"Error："+"\033[0m", name, ":", e.args)
+    pass
