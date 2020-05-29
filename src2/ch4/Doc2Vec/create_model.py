@@ -22,26 +22,6 @@ list = [
         {"name":"どんぐりと山猫","zipname":"43752_ruby_17595.zip"},
     ]},
     {"auther":{
-        "name":"芥川 竜之介",
-        "url":"https://www.aozora.gr.jp/cards/000879/files/"}, 
-     "books":[
-        {"name":"羅生門","zipname":"127_ruby_150.zip"},
-        {"name":"鼻","zipname":"42_ruby_154.zip"},
-        {"name":"河童","zipname":"69_ruby_1321.zip"},
-        {"name":"歯車","zipname":"42377_ruby_34744.zip"},
-        {"name":"老年","zipname":"131_ruby_241.zip"},
-    ]},
-    {"auther":{
-        "name":"太宰 治",
-        "url":"https://www.aozora.gr.jp/cards/000035/files/"}, 
-     "books":[
-        {"name":"斜陽","zipname":"1565_ruby_8220.zip"},
-        {"name":"走れメロス","zipname":"1567_ruby_4948.zip"},
-        {"name":"津軽","zipname":"2282_ruby_1996.zip"},
-        {"name":"お伽草紙","zipname":"307_ruby_3042.zip"},
-        {"name":"人間失格","zipname":"301_ruby_5915.zip"},
-    ]},
-    {"auther":{
         "name":"夏目 漱石",
         "url":"https://www.aozora.gr.jp/cards/000148/files/"}, 
      "books":[
@@ -50,6 +30,26 @@ list = [
         {"name":"草枕","zipname":"776_ruby_6020.zip"},
         {"name":"虞美人草","zipname":"761_ruby_1861.zip"},
         {"name":"三四郎","zipname":"794_ruby_4237.zip"},
+    ]},
+    {"auther":{
+        "name":"ポー エドガー・アラン",
+        "url":"https://www.aozora.gr.jp/cards/000094/files/"}, 
+     "books":[
+        {"name":"ウィリアム・ウィルスン","zipname":"2523_ruby_19896.zip"},
+        {"name":"落穴と振子","zipname":"1871_ruby_17551.zip"},
+        {"name":"黒猫","zipname":"530_ruby_20931.zip"},
+        {"name":"群集の人","zipname":"56535_ruby_69925.zip"},
+        {"name":"沈黙","zipname":"56537_ruby_70425.zip"},
+    ]},
+    {"auther":{
+        "name":"紫式部",
+        "url":"https://www.aozora.gr.jp/cards/000052/files/"}, 
+     "books":[
+        {"name":"源氏物語 01 桐壺","zipname":"5016_ruby_9746.zip"},
+        {"name":"源氏物語 02 帚木","zipname":"5017_ruby_9752.zip"},
+        {"name":"源氏物語 03 空蝉","zipname":"5018_ruby_9754.zip"},
+        {"name":"源氏物語 04 夕顔","zipname":"5019_ruby_9761.zip"},
+        {"name":"源氏物語 05 若紫","zipname":"5020_ruby_11253.zip"},
     ]},
 ]
 
@@ -69,9 +69,12 @@ def read_book(auther, book):
     zipname = book["zipname"]
     #Zipファイルを開く
     with zipfile.ZipFile(zipname,"r") as zf:
-        #Zipファイルに含まれるファイルを開く。今回のZIPは一つのテキストファイルのみ含む。
+        #Zipファイルに含まれるファイルを開く。
         for filename in zf.namelist():
-            with zf.open(filename,"r") as f:
+            # テキストファイル以外は処理をスキップ
+            if os.path.splitext(filename)[1] != ".txt":
+                continue
+            with zf.open(filename,"r") as f: 
                 #今回読むファイルはShift-JISなので指定してデコードする
                 return f.read().decode("shift-jis")
 
