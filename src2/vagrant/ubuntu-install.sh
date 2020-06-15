@@ -48,6 +48,7 @@ sudo apt-get install -y --no-install-recommends \
     language-pack-ja \
     fonts-ipafont
 
+sudo apt-get install language-pack-ja
 sudo apt-get clean
 
 # update pip
