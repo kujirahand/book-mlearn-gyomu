@@ -1,9 +1,10 @@
 import cv2
-from sklearn.externals import joblib
+import pickle
 
 def predict_digit(filename):
     # 学習済みデータを読み込む
-    clf = joblib.load("digits.pkl")
+    with open("digits.pkl", "rb") as fp:
+        clf = pickle.load(fp)
     # 自分で用意した手書きの画像ファイルを読み込む
     my_img = cv2.imread(filename)
     # 画像データを学習済みデータに合わせる
@@ -21,5 +22,5 @@ n = predict_digit("my2.png")
 print("my2.png = " + str(n))
 n = predict_digit("my4.png")
 print("my4.png = " + str(n))
-
-
+n = predict_digit("my9.png")
+print("my9.png = " + str(n))
