@@ -1,10 +1,9 @@
 from detect_zip import *
 import matplotlib.pyplot as plt
 
-from sklearn.externals import joblib
-
-# 学習済み手書き数字のデータを読込
-clf = joblib.load("digits.pkl")
+# 学習済み手書き数字のデータを読み込む
+with open("digits.pkl", "rb") as fp:
+    clf = pickle.load(fp)
 
 # 画像から領域を読み込む
 cnts, img = detect_zipno("hagaki1.png")
@@ -30,6 +29,6 @@ for i, pt in enumerate(cnts):
     plt.subplot(1, 7, i + 1)
     plt.imshow(im2)
     plt.axis("off")
-    plt.title(res)
+    plt.title(str(res))
 
 plt.show()
