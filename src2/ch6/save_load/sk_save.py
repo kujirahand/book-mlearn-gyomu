@@ -1,5 +1,5 @@
 from sklearn import datasets, svm
-from sklearn.externals import joblib
+import pickle
 
 # アヤメのサンプルデータを読み込む
 iris = datasets.load_iris()
@@ -9,5 +9,6 @@ clf = svm.SVC()
 clf.fit(iris.data, iris.target)
 
 # 学習済みデータを保存
-joblib.dump(clf, 'iris.pkl', compress=True)
+with open('iris.pkl', 'wb') as fp:
+    pickle.dump(clf, fp)
 

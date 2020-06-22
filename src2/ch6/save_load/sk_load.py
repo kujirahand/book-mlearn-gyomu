@@ -1,9 +1,10 @@
 from sklearn import datasets, svm
-from sklearn.externals import joblib
 from sklearn.metrics import accuracy_score
+import pickle
 
 # 保存した学習済みデータと分類器を読み込む
-clf = joblib.load('iris.pkl')
+with open('iris.pkl', 'rb') as fp:
+    clf = pickle.load(fp)
 
 # アヤメのサンプルデータを読み込み
 iris = datasets.load_iris()
