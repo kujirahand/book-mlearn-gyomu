@@ -1,10 +1,9 @@
 import cv2
-import os, glob
+import os, glob, pickle
 from sklearn.model_selection import train_test_split
 from sklearn import datasets, metrics
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
-from sklearn.externals import joblib
 
 # 画像の学習サイズやパスを指定
 image_size = (64, 32)
@@ -40,4 +39,5 @@ y_pred = clf.predict(x_test)
 print(accuracy_score(y_test, y_pred))
 
 # データを保存 --- (*5)
-joblib.dump(clf, 'fish.pkl')
+with open("fish.pkl", "wb") as fp:
+  pickle.dump(clf, fp)

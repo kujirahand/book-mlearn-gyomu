@@ -1,8 +1,8 @@
-import cv2, os, copy
-from sklearn.externals import joblib
+import cv2, os, copy, pickle
 
 # 学習済みデータを取り出す
-clf = joblib.load("fish.pkl")
+with open("fish.pkl", "rb") as fp:
+    clf = pickle.load(fp)
 output_dir = "./bestshot"
 img_last = None # 前回の画像
 fish_th = 3 # 画像を出力するかどうかのしきい値
