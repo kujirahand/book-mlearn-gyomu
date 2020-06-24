@@ -1,5 +1,5 @@
 import tensorflow as tf
-import tensorflow.contrib.keras as keras
+import tensorflow.keras as keras
 from sklearn.model_selection import train_test_split
 import pandas as pd
 import numpy as np
