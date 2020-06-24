@@ -20,7 +20,9 @@ for i in range(3000):
     result = judge(a, b)
     x_items.append([a, b])
     y_items.append(result)
-    print(a, b, result)
+# 作成したデータを表示
+print(x_items)
+print(y_items)
 
 # データを学習用とテスト用に分割 --- (*4)
 x_train = x_items[0:2000]

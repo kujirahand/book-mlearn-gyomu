@@ -74,7 +74,8 @@ pip3 install \
     opencv-python==4.1.0.25 \
     tensorflow-cpu==2.1.0 \
     keras==2.3.1 \
-    flask==1.1.1
+    flask==1.1.1 \
+    pydot==1.4.1
 
 mkdir -p ~/.config/matplotlib && \
 echo 'backend : Agg' > ~/.config/matplotlib/matplotlibrc && \
