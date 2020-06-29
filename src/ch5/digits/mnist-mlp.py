@@ -16,8 +16,8 @@ out_size = 10
 X_train = X_train.reshape(-1, 784).astype('float32') / 255
 X_test = X_test.reshape(-1, 784).astype('float32') / 255
 # ラベルデータをone-hotベクトルに直す
-y_train = keras.utils.np_utils.to_categorical(y_train.astype('int32'),10)
-y_test = keras.utils.np_utils.to_categorical(y_test.astype('int32'),10)
+y_train = keras.utils.to_categorical(y_train.astype('int32'),10)
+y_test = keras.utils.to_categorical(y_test.astype('int32'),10)
 
 # MLPモデル構造を定義 --- (*2)
 model = Sequential()

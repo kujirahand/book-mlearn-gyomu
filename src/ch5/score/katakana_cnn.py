@@ -25,7 +25,7 @@ for d in data:
     (num, img) = d
     img = img.astype('float').reshape(
       im_size, im_size, im_color) / 255
-    y.append(keras.utils.np_utils.to_categorical(num, out_size))
+    y.append(keras.utils.to_categorical(num, out_size))
     x.append(img)
 x = np.array(x)
 y = np.array(y)
