@@ -4,7 +4,7 @@ from flask import request
 import my_text
 
 # ポート番号 --- (*1)
-TM_PORT_NO = 8085
+TM_PORT_NO = 8888
 # HTTPサーバを起動
 app = flask.Flask(__name__)
 print("http://localhost:" + str(TM_PORT_NO))
@@ -39,5 +39,5 @@ def api():
     
 if __name__ == '__main__':
     # サーバを起動
-    app.run(debug=False, port=TM_PORT_NO)
+    app.run(debug=True, host='0.0.0.0', port=TM_PORT_NO)
 
