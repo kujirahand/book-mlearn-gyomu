@@ -67,8 +67,8 @@ print('正解率=', score[1], 'loss=', score[0])
 
 # 学習の様子をグラフへ描画 --- (*10)
 # 正解率の推移をプロット
-plt.plot(hist.history['acc'])
-plt.plot(hist.history['val_acc'])
+plt.plot(hist.history['accuracy'])
+plt.plot(hist.history['val_accuracy'])
 plt.title('Accuracy')
 plt.legend(['train', 'test'], loc='upper left')
 plt.show()
