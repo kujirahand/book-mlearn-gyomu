@@ -11,7 +11,7 @@ wait_time = 1 # 待機秒数（1以上を推奨）
 
 # キーワードとディレクトリ名を指定してダウンロード --- (*2)
 def main():
-    go_download('マグロ寿司', 'sushi')
+    go_download('マグロ 寿司', 'sushi')
     go_download('サラダ', 'salad')
     go_download('麻婆豆腐', 'tofu')
 

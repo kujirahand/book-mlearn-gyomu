@@ -22,7 +22,7 @@ y = photos['y']
 x = x.reshape(-1, im_rows, im_cols, im_color)
 x = x.astype('float32') / 255
 # ラベルデータをone-hotベクトルに直す
-y = keras.utils.np_utils.to_categorical(y.astype('int32'), nb_classes)
+y = keras.utils.to_categorical(y.astype('int32'), nb_classes)
 
 # 学習用とテスト用に分ける
 x_train, x_test, y_train, y_test = train_test_split(

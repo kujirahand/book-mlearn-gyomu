@@ -20,7 +20,7 @@ y = photos['y']
 x = x.reshape(-1, im_rows, im_cols, im_color)
 x = x.astype('float32') / 255
 # ラベルデータをone-hotベクトルに直す --- (*4)
-y = keras.utils.np_utils.to_categorical(y.astype('int32'), nb_classes)
+y = keras.utils.to_categorical(y.astype('int32'), nb_classes)
 
 # 学習用とテスト用に分ける --- (*5)
 x_train, x_test, y_train, y_test = train_test_split(
@@ -42,8 +42,8 @@ print('正解率=', score[1], 'loss=', score[0])
 
 # 学習の様子をグラフへ描画 --- (*9)
 # 正解率の推移をプロット
-plt.plot(hist.history['acc'])
-plt.plot(hist.history['val_acc'])
+plt.plot(hist.history['accuracy'])
+plt.plot(hist.history['val_accuracy'])
 plt.title('Accuracy')
 plt.legend(['train', 'test'], loc='upper left')
 plt.show()
