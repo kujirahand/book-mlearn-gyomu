@@ -25,8 +25,9 @@ tfidf.load_dic("text/genre-tdidf.dic")
 
 # Kerasのモデルを定義して重みデータを読み込む --- (*3)
 nb_classes = 4
+dt_count = len(tfidf.dt_dic)
 model = Sequential()
-model.add(Dense(512, activation='relu', input_shape=(52800,)))
+model.add(Dense(512, activation='relu', input_shape=(dt_count,)))
 model.add(Dropout(0.2))
 model.add(Dense(512, activation='relu'))
 model.add(Dropout(0.2))

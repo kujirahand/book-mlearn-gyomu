@@ -51,6 +51,7 @@ sudo apt-get install -y --no-install-recommends \
 sudo apt-get install language-pack-ja
 sudo apt-get clean
 
+
 # update pip
 pip3 install --upgrade pip
 pip install setuptools --upgrade
@@ -76,6 +77,14 @@ pip3 install \
     keras==2.3.1 \
     flask==1.1.1 \
     pydot==1.4.1
+
+
+# mecab
+sudo apt install -y \
+    mecab \
+    libmecab-dev \
+    mecab-ipadic-utf8
+pip install mecab-python3
 
 mkdir -p ~/.config/matplotlib && \
 echo 'backend : Agg' > ~/.config/matplotlib/matplotlibrc && \
