@@ -7,12 +7,10 @@ import my_text
 TM_PORT_NO = 8888
 # HTTPサーバを起動
 app = flask.Flask(__name__)
-print("http://localhost:" + str(TM_PORT_NO))
 
 # 一度、ジャンル判定のテストをする
 label, per, no = my_text.check_genre("テスト")
-print("テスト", label, per, no)
-
+print("> テスト --- ", label, per, no)
 
 # ルートへアクセスした場合 --- (*2)
 @app.route('/', methods=['GET'])
