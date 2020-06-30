@@ -45,5 +45,5 @@ def check_photo_str(path):
     print("可能性は、", per, "%")
 
 if __name__ == '__main__':
-    check_photo_str('test_sushi.jpg')
-    check_photo_str('test_salad.jpg')
+    check_photo_str('test-sushi.jpg')
+    check_photo_str('test-salad.jpg')
