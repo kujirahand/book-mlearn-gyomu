@@ -10,7 +10,7 @@ save_dir = "./live"
 # 保存した学習データを読む --- (※1)
 model = load_model('mask_model.h5')
 
-# dlibをはじめる --- (※2)
+# Dlibをはじめる --- (※2)
 detector = dlib.get_frontal_face_detector()
 
 # Webカメラから入力を開始 --- (※3)
