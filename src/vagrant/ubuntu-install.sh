@@ -46,7 +46,8 @@ sudo apt-get install -y --no-install-recommends \
     unzip \
     nano \
     language-pack-ja \
-    fonts-ipafont
+    fonts-ipafont \
+    cmake
 
 sudo apt-get install language-pack-ja
 sudo apt-get clean
@@ -76,7 +77,8 @@ pip3 install \
     tensorflow-cpu==2.2.0 \
     keras==2.4.3 \
     flask==1.1.1 \
-    pydot==1.4.1
+    pydot==1.4.1 \
+    dlib==19.20.0
 
 
 # mecab
