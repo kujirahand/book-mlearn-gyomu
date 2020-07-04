@@ -41,18 +41,18 @@ while True:
         print(res_labels[v], res)
         # 枠を描画 --- (※9)
         color = green if v == 1 else red
-        border = 2 if v == 1 else 5
+        border = 2 if v == 1 else 7
         cv2.rectangle(frame, 
           (x1, y1), (x2, y2), color, 
           thickness=border)
         # テキストを描画
         cv2.putText(frame,
-            res_labels[v], (x1, y1-5),
+            res_labels[v], (x1, y1-7),
             cv2.FONT_HERSHEY_SIMPLEX,
-            0.8, color, thickness=1)
+            0.9, color, thickness=2)
     if len(dets) > 0: # 結果を保存
         if os.path.exists(save_dir):
-            jpgfile = save_dir + "/" + str(fid) + ".jpg"
+            jpgfile = save_dir + "/" + str(fid) + ".png"
             cv2.imwrite(jpgfile, frame)
             fid += 1
     # ウィンドウに画像を出力 --- (※10)
