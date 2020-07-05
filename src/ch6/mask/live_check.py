@@ -20,7 +20,8 @@ fid = 1
 cap = cv2.VideoCapture(0)
 while True:
     # カメラの画像を読み込む --- (※4)
-    _, frame = cap.read()
+    ok, frame = cap.read()
+    if not ok: break
     # 画像を縮小表示する --- (※5)
     frame = cv2.resize(frame, (500,300))
     # 顔検出 --- (※6)
