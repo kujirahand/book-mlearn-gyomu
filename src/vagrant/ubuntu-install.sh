@@ -55,7 +55,7 @@ sudo apt-get clean
 
 # update pip
 pip3 install --upgrade pip
-pip install setuptools --upgrade
+pip3 install setuptools --upgrade
 
 # install library
 pip3 install \
@@ -65,7 +65,7 @@ pip3 install \
     nose \
     h5py \
     ipykernel \
-    jupyter \
+    jupyterlab \
     matplotlib \
     mlxtend \
     numpy \
@@ -86,12 +86,15 @@ sudo apt install -y \
     mecab \
     libmecab-dev \
     mecab-ipadic-utf8
-pip install mecab-python3
+pip3 install mecab-python3
 
 mkdir -p ~/.config/matplotlib && \
 echo 'backend : Agg' > ~/.config/matplotlib/matplotlibrc && \
 echo 'font.family : IPAPGothic' >> ~/.config/matplotlib/matplotlibrc
 
+# ubuntu18 add path to ~/.local/bin
+echo 'PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc
+source ~/.bashrc
 
 
 
