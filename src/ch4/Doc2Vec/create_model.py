@@ -22,14 +22,14 @@ list = [
         {"name":"どんぐりと山猫","zipname":"43752_ruby_17595.zip"},
     ]},
     {"auther":{
-        "name":"夏目 漱石",
-        "url":"https://www.aozora.gr.jp/cards/000148/files/"}, 
+        "name":"芥川 竜之介",
+        "url":"https://www.aozora.gr.jp/cards/000879/files/"}, 
      "books":[
-        {"name":"吾輩は猫である","zipname":"789_ruby_5639.zip"},
-        {"name":"坊っちゃん","zipname":"752_ruby_2438.zip"},
-        {"name":"草枕","zipname":"776_ruby_6020.zip"},
-        {"name":"虞美人草","zipname":"761_ruby_1861.zip"},
-        {"name":"三四郎","zipname":"794_ruby_4237.zip"},
+        {"name":"羅生門","zipname":"127_ruby_150.zip"},
+        {"name":"鼻","zipname":"42_ruby_154.zip"},
+        {"name":"河童","zipname":"69_ruby_1321.zip"},
+        {"name":"歯車","zipname":"42377_ruby_34744.zip"},
+        {"name":"老年","zipname":"131_ruby_241.zip"},
     ]},
     {"auther":{
         "name":"ポー エドガー・アラン",
@@ -106,7 +106,7 @@ for auther, book in book_list():
     
 #TaggedDocumentの配列を使ってDoc2Vecの学習モデルを作成 --- (*6)
 model = models.Doc2Vec(
-    documents, dm=1, vector_size=300, window=5, min_count=1)
+    documents, dm=0, vector_size=300, window=15, min_count=1)
 
 #Doc2Vecの学習モデルを保存
 model.save('aozora.model')

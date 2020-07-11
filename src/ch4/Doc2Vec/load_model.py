@@ -49,12 +49,11 @@ def similar(title, url):
 similar("宮沢 賢治:よだかの星",
         "https://www.aozora.gr.jp/cards/000081/files/473_ruby_467.zip")
 
-similar("夏目 漱石:一夜",
-        "https://www.aozora.gr.jp/cards/000148/files/1086_ruby_5742.zip")
+similar("芥川 龍之介:犬と笛",
+        "https://www.aozora.gr.jp/cards/000879/files/56_ruby_845.zip")
 
 similar("ポー エドガー・アラン:マリー・ロジェエの怪事件",
         "https://www.aozora.gr.jp/cards/000094/files/4261_ruby_54182.zip")
 
 similar("紫式部:源氏物語 06 末摘花",
         "https://www.aozora.gr.jp/cards/000052/files/5021_ruby_11106.zip")
-

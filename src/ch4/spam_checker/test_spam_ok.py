@@ -21,10 +21,10 @@ data = pickle.load(open(data_file, "rb"))
 word_dic = data[2]
 # MeCabの準備
 tagger = MeCab.Tagger()
-# 学習済みモデルを読み出す --- (※3)
+# 学習済みモデルを読み出す --- (※3) 
 model = pickle.load(open(model_file, "rb"))
 
-# テキストがスパムかどうか判定する ---(*4)
+# テキストがスパムかどうか判定する --- (※4)
 def check_spam(text):
     # テキストを単語IDのリストに変換し単語の頻出頻度を調べる
     zw = np.zeros(word_dic['__id'])
@@ -33,17 +33,16 @@ def check_spam(text):
     # 単語毎の回数を加算 --- (※5)
     for line in s.split("\n"):
         if line == "EOS": break
-        params = line.split("\t")[1].split(",")
-        org = params[6] # 単語の原型
+        org =  line.split("\t")[3]# 単語の原型
         if org in word_dic:
             id = word_dic[org]
             zw[id] += 1
             count += 1
-    zw = zw / count # --- (※6)
-    # 予測 --- (※7)
-    pre = model.predict([zw])[0]
+    zw = zw / count #  --- (※6)
+    # 予測
+    pre = model.predict([zw])[0] #  --- (※7)
     print("- 結果=", label_names[pre])
 
-if __name__ == "__main__": # --- (※8)
+if __name__ == "__main__": #  --- (※8)
     check_spam(test_text1)
     check_spam(test_text2)

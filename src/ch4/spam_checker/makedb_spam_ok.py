@@ -39,13 +39,13 @@ def text_to_ids(text):
     for line in word_s.split("\n"):
         if line == 'EOS' or line == '': continue
         word = line.split("\t")[0]
-        params = line.split("\t")[1].split(",")
+        params = line.split("\t")[4].split("-")
         hinsi = params[0] # 品詞
-        hinsi2 = params[1] # 品詞の説明
-        org = params[6] # 単語の原型
+        hinsi2 = params[1]  if len(params) > 1 else '' # 品詞の説明
+        org = line.split("\t")[3]  # 単語の原型
         # 助詞・助動詞・記号・数字は捨てる --- (*7)
         if not (hinsi in ['名詞', '動詞', '形容詞']): continue
-        if hinsi == '名詞' and hinsi2 == '数': continue
+        if hinsi == '名詞' and hinsi2 == '数詞': continue
         # 単語をidに変換 --- (*8)
         id = word_to_id(org)
         words.append(id)
@@ -91,5 +91,4 @@ if __name__ == "__main__":
     y, x = make_freq_data_allfiles()
     # ファイルにデータを保存
     pickle.dump([y, x, word_dic], open(savefile, 'wb'))
-    print("ok")
-
+    print("単語頻出データ作成完了")
