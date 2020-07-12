@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # install for Python
 sudo apt-get update
@@ -98,6 +98,8 @@ echo 'font.family : IPAPGothic' >> ~/.config/matplotlib/matplotlibrc
 echo 'PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc
 source ~/.bashrc
 
-
+# for Virtual machine
+SCRIPT_DIR=$(cd $(dirname $0); pwd)
+/usr/bin/env python3 $SCRIPT_DIR/jupyter-setup.py
 
 
