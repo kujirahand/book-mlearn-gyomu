@@ -86,8 +86,8 @@ sudo apt install -y \
     mecab \
     libmecab-dev \
     mecab-ipadic-utf8
-pip3 install mecab-python3 \ 
-    unidic-lite　\
+pip3 install mecab-python3 \
+    unidic-lite \
     gensim
 
 mkdir -p ~/.config/matplotlib && \
