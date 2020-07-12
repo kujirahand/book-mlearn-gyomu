@@ -86,7 +86,7 @@ sudo apt install -y \
     mecab \
     libmecab-dev \
     mecab-ipadic-utf8
-pip3 install mecab-python3 \
+pip3 install mecab-python3==1.0.1 \
     unidic-lite \
     gensim
 
