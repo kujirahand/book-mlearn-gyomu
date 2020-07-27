@@ -16,12 +16,10 @@ if len(sys.argv) <= 1:
 fname = sys.argv[1]
 frame = cv2.imread(fname)
 # 横幅が500pxになるようリサイズ
-"""
 width = 500
 h, w = frame.shape[:2]
 height = round(h * (width / w))
 frame = cv2.resize(frame, dsize=(width, height))
-"""
 
 # 顔検出
 red = (0,0,255)

@@ -47,7 +47,8 @@ sudo apt-get install -y --no-install-recommends \
     nano \
     language-pack-ja \
     fonts-ipafont \
-    cmake
+    cmake \
+    graphviz
 
 sudo apt-get install language-pack-ja
 sudo apt-get clean
