@@ -27,3 +27,9 @@ $ pip install --upgrade pydot==1.4.1
 $ pip install --upgrade dlib==19.20.0
 ```
 
+## リポジトリを取得する場合
+
+```
+git clone https://github.com/kujirahand/book-mlearn-gyomu.git
+```
+
