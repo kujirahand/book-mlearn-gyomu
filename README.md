@@ -42,3 +42,11 @@ Gitでリポジトリを取得する場合、ターミナルで以下のコマ�
 git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 ```
 
+## Vagrantで環境を構築する場合
+
+以下、VagrantにUbuntuをセットアップする方法が参考になります。
+
+- [VagrantでUbuntuをセットアップする方法](https://kujirahand.com/blog/go.php?748)
+
+
+
