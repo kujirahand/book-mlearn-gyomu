@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.utils import all_estimators
+from sklearn.utils.testing import all_estimators
 from sklearn.model_selection import KFold
 import warnings
 from sklearn.model_selection import cross_val_score

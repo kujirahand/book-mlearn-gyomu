@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-from sklearn.utils import all_estimators
+from sklearn.utils.testing import all_estimators
 import warnings
 
 # アヤメデータの読み込み
