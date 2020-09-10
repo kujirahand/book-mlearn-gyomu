@@ -15,7 +15,7 @@
 
 ## ソースコードを取得するには？
 
-GitHubを訪問し、画面の右上[Clone or Download] > [Download ZIP]から、最新のソースコードをダウンロードできます。
+GitHubを訪問し、画面の右上の緑色のボタン[Code]をクリックし、[Download ZIP]から、最新のソースコードをダウンロードできます。
 
 書籍の最後に第n刷と書かれています。
 もし、第8刷以前のソースコードが必要な場合は、[こちら](https://github.com/kujirahand/book-mlearn-gyomu/releases/tag/1.0.0)よりソースコードをダウンロードしてください。
@@ -41,4 +41,12 @@ Gitでリポジトリを取得する場合、ターミナルで以下のコマ�
 ```
 git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 ```
+
+## Vagrantで環境を構築する場合
+
+以下、VagrantにUbuntuをセットアップする方法が参考になります。
+
+- [VagrantでUbuntuをセットアップする方法](https://kujirahand.com/blog/go.php?748)
+
+
 
