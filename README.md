@@ -26,7 +26,7 @@ GitHubを訪問し、画面の右上[Clone or Download] > [Download ZIP]から�
 
 ```
 $ pip install --upgrade scikit-learn==0.22.2.post1
-$ pip install --upgrade opencv-python==4.1.0.25
+$ pip install --upgrade opencv-python==4.1.2.30
 $ pip install --upgrade tensorflow-cpu==2.2.0
 $ pip install --upgrade keras==2.4.3
 $ pip install --upgrade flask==1.1.1

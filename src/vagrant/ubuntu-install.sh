@@ -74,7 +74,7 @@ pip3 install \
     scipy \
     scikit-learn==0.22.2.post1 \
     seaborn \
-    opencv-python==4.1.0.25 \
+    opencv-python==4.1.2.30 \
     tensorflow-cpu==2.2.0 \
     keras==2.4.3 \
     flask==1.1.1 \
