@@ -49,7 +49,7 @@ git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 
 - [VagrantでUbuntuをセットアップする方法](https://kujirahand.com/blog/go.php?748)
 
-## Appleシリコン(M1チップ)搭載のmacOSを利用する場合 (2021/11/01追加)
+## M1チップ搭載のMacを利用する場合 (2021/11/01追加)
 
 ネイティブ環境にTensorflowなどをインストールすることもできます。こちらは若干インストールに手間がかかりますが、最もマシンの性能を活用できます。今後インストール方法が整備されていくと思いますが、流動的なのでこの方法は本書ではサポート対象外とさせてください。
 
