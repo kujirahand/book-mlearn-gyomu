@@ -73,8 +73,7 @@ pip3 install \
     pandas \
     scipy \
     scikit-learn==0.22.2.post1 \
-    seaborn \
-    opencv-python==4.1.2.30 \
+    opencv-python==3.4.16.57 \
     keras==2.4.3 \
     flask==1.1.1 \
     pydot==1.4.1 \
