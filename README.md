@@ -25,14 +25,14 @@ GitHubを訪問し、画面の右上の緑色のボタン[Code]をクリック�
 
 [Ubuntu18.04用のインストールスクリプト](https://github.com/kujirahand/book-mlearn-gyomu/blob/master/src/vagrant/ubuntu-install.sh)を用意しています。
 
-```
-$ pip install --upgrade scikit-learn==0.22.2.post1
-$ pip install --upgrade opencv-python==4.1.2.30
-$ pip install --upgrade tensorflow-cpu==2.2.0
-$ pip install --upgrade keras==2.4.3
-$ pip install --upgrade flask==1.1.1
-$ pip install --upgrade pydot==1.4.1
-$ pip install --upgrade dlib==19.20.0
+```pip-install.bash
+pip install --upgrade scikit-learn==0.22.2.post1
+pip install --upgrade opencv-python==4.1.2.30
+pip install --upgrade tensorflow-cpu==2.2.0
+pip install --upgrade keras==2.4.3
+pip install --upgrade flask==1.1.1
+pip install --upgrade pydot==1.4.1
+pip install --upgrade dlib==19.20.0
 ```
 
 ## リポジトリを取得する場合
@@ -48,6 +48,36 @@ git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 以下、VagrantにUbuntuをセットアップする方法が参考になります。
 
 - [VagrantでUbuntuをセットアップする方法](https://kujirahand.com/blog/go.php?748)
+
+## Appleシリコン(M1チップ)搭載のmacOSを利用する場合 (2021/11/01追加)
+
+ネイティブ環境にTensorflowなどをインストールすることもできます。こちらは若干インストールに手間がかかりますが、最もマシンの性能を活用できます。今後インストール方法が整備されていくと思いますが、流動的なのでこの方法は本書ではサポート対象外とさせてください。
+
+ - [参考リンク:Apple M1環境のrosettaなしでpandas,numpy,Scikit-learn, matplotlibの使用。](https://qiita.com/cheuora/items/c2111ed4d9956e804100)
+ - [参考リンク:M1 Macでディープラーニングしてみる](https://zenn.dev/karaage0703/articles/0ab9e654cfb0ec)
+
+そこで、オススメなのが、Dockerを使う方法です。以下の記事が参考になります。
+
+ - [参考リンク:M1搭載Macでも環境を汚さずにDeep Learningしたい！](https://qiita.com/sonoisa/items/6d6b4a81169397a96dd8)
+
+最初に[DockerのM1 Mac版](https://docs.docker.com/desktop/mac/apple-silicon/)をインストールしてください。
+
+そして、上記の記事にある、イメージを利用させていただきます。
+
+```
+# イメージをダウンロード
+docker pull sonoisa/deep-learning-coding:pytorch1.6.0_tensorflow2.3.0
+# コンテナを開始
+docker run -it -p 8888:8888 -v `pwd`:/src sonoisa/deep-learning-coding:pytorch1.6.0_tensorflow2.3.0
+# 必要なソフトウェアをインストール
+pip install --upgrade scikit-learn==0.22.2.post1
+pip install --upgrade opencv-python==4.1.2.30
+pip install --upgrade keras==2.4.3
+pip install --upgrade flask==1.1.1
+pip install --upgrade pydot==1.4.1
+pip install --upgrade dlib==19.20.0
+```
+
 
 
 
