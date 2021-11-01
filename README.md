@@ -68,15 +68,18 @@ git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 # イメージをダウンロード
 docker pull sonoisa/deep-learning-coding:pytorch1.6.0_tensorflow2.3.0
 # コンテナを開始
+cd src
 docker run -it -p 8888:8888 -v `pwd`:/src sonoisa/deep-learning-coding:pytorch1.6.0_tensorflow2.3.0
-# 必要なソフトウェアをインストール
-pip install --upgrade scikit-learn==0.22.2.post1
-pip install --upgrade opencv-python==4.1.2.30
-pip install --upgrade keras==2.4.3
-pip install --upgrade flask==1.1.1
-pip install --upgrade pydot==1.4.1
-pip install --upgrade dlib==19.20.0
 ```
+
+Dockerが動き出したら以下のコマンドを実行して必要なソフトウェアをインストールします。または、上記の対応ライブラリより手動でソフトウェアをインストールしてください。その際、Tensorflowは既にDockerイメージに含まれています。
+
+```
+cd /src/vagrant
+bash ubuntu-install.sh
+```
+
+
 
 
 
