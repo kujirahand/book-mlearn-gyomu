@@ -43,7 +43,7 @@ Gitでリポジトリを取得する場合、ターミナルで以下のコマ�
 git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 ```
 
-## Vagrantで環境を構築する場合
+## Vagrantで環境を構築する場合 (Windows/Intel Macの場合)
 
 以下、VagrantにUbuntuをセットアップする方法が参考になります。
 
@@ -55,6 +55,8 @@ git clone https://github.com/kujirahand/book-mlearn-gyomu.git
 
  - [参考リンク:Apple M1環境のrosettaなしでpandas,numpy,Scikit-learn, matplotlibの使用。](https://qiita.com/cheuora/items/c2111ed4d9956e804100)
  - [参考リンク:M1 Macでディープラーニングしてみる](https://zenn.dev/karaage0703/articles/0ab9e654cfb0ec)
+
+### Dockerイメージを利用して環境を作る
 
 そこで、オススメなのが、Dockerを使う方法です。以下の記事が参考になります。
 
