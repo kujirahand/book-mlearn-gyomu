@@ -81,6 +81,8 @@ cd /src/vagrant
 bash docker-install.sh
 ```
 
+> 現状、pipでseabornがインストールできないため、Wineのサンプルでは、import seabornの一行を削除して実行してください。
+
 
 
 
