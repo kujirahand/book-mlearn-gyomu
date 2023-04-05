@@ -30,7 +30,7 @@ train_x, train_y = make_data(df[train_year])
 test_x, test_y = make_data(df[test_year])
 
 # 直線回帰分析を行う ---(*3)
-lr = LinearRegression(normalize=True)
+lr = LinearRegression()
 lr.fit(train_x, train_y) # 学習
 pre_y = lr.predict(test_x) # 予測
 
